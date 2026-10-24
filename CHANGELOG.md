@@ -1,5 +1,15 @@
 # Histórico de versões
 
+## 1.2.0
+
+- Revisa individualmente os 30 especialistas restantes, mantendo o Suporte e os 31 nomes/identificadores originais.
+- Separa métodos atuais de instruções históricas, reduz questionários e assinaturas repetidas, melhora descrições de escolha e preserva contexto entre skills.
+- Corrige passagem de proporção entre Flow e JSON, quantidades solicitadas, margens editoriais, preservação de copy e regras de CSV.
+- Disponibiliza cópias textuais dos três PDFs sem alterar os 63 anexos originais.
+- Inclui manifesto de integridade, verificador offline, conferidor opcional de contagem/JSON/CSV, exemplos de avaliação e estudo da revisão.
+- Declara o Suporte como fluxo inicial no manifesto OpenAI. Mantém compatibilidade de nomes e comandos com instalações existentes.
+- Avalia 30 casos no Codex e 30 no Claude Code; o estudo registra critérios, repetições necessárias e limites da cobertura.
+
 ## 1.1.2
 
 - Revisa o Suporte 24 horas para orientar o uso das skills no Claude e no Codex, com ajuda de instalação, atualização e diagnóstico.

@@ -1,11 +1,11 @@
 \# KB/qa\_checklist.md  
-Checklist de \*\*qualidade\*\* para prompts do \*\*VEO3\*\* — formato \*\*vertical (9:16)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, \*\*≤ 8s\*\*. Texto do prompt \*\*sempre em inglês\*\* (narração apenas se solicitada, no idioma pedido). Use este arquivo antes de enviar qualquer JSON.
+Checklist de \*\*qualidade\*\* para prompts do \*\*VEO3\*\* — formato \*\*vertical (16:9)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, \*\*≤ 8s\*\*. Texto do prompt \*\*sempre em inglês\*\* (narração apenas se solicitada, no idioma pedido). Use este arquivo antes de enviar qualquer JSON.
 
 \---
 
 \#\# 1\) Pré‑envio (verificações essenciais)  
 \- \*\*Idioma:\*\* todo o prompt em \*\*inglês\*\*; narração só se a pessoa pedir e \*\*no idioma solicitado\*\*.    
-\- \*\*Formato:\*\* \`"aspect\_ratio": "9:16"\`.    
+\- \*\*Formato:\*\* \`"aspect\_ratio": "16:9"\`.    
 \- \*\*Duração:\*\* \`"timing.duration\_seconds" ≤ 8\` (padrão: 8).    
 \- \*\*Tomada:\*\* \*\*one‑take\*\*, \*\*no cuts\*\*, \*\*no zoom\*\*, \*\*fixed focal\*\*.    
 \- \*\*texto apenas se o usuário pedir em tela:\*\* inclua em \`negative\_prompts\` \*\*"no text overlays"\*\* e \*\*"no subtitles"\*\*.    
@@ -20,7 +20,7 @@ Checklist de \*\*qualidade\*\* para prompts do \*\*VEO3\*\* — formato \*\*vert
 \#\# 2\) Estrutura do JSON (sanidade)  
 \- \`mode\`: \`"text\_to\_video"\` \*\*ou\*\* \`"frame\_to\_video"\`.    
 \- \`name\`: curto e objetivo.    
-\- \`aspect\_ratio\`: \`"9:16"\`.    
+\- \`aspect\_ratio\`: \`"16:9"\`.    
 \- \`description\`: 1–2 frases claras; \*\*sem on‑screen text\*\*.    
 \- \`camera\` \*\*ou\*\* \`camera\_setup\`: descreve \*\*um\*\* movimento contínuo de 8s.    
 \- \`timing\`: \`{ "duration\_seconds": 8, "fps": 24 }\`.    
@@ -106,7 +106,7 @@ Inclua este núcleo e adicione itens contextuais conforme o caso:
 
 ## **10\) Encerramento & Entrega**
 
-* Confirme mentalmente: **inglês**, **9:16**, **≤ 8s**, **one‑take**, **sem texto/legendas**.
+* Confirme mentalmente: **inglês**, **16:9**, **≤ 8s**, **one‑take**, **sem texto/legendas**.
 
 * Leia o `description` e o `camera`: a ação está clara do primeiro ao último segundo?
 

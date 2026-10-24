@@ -1,10 +1,10 @@
 \# KB/camera\_move\_recipes.md  
-Biblioteca de \*\*movimentos de câmera\*\* para VEO3 — vertical \*\*9:16\*\*, \*\*one‑take\*\*, \*\*no cuts\*\*, \*\*no zoom\*\*, \*\*fixed focal\*\*. Textos prontos em \*\*inglês\*\* para colar em \`camera\` / \`camera\_setup\` e guias de tempo para \*\*até 8s\*\*.
+Biblioteca de \*\*movimentos de câmera\*\* para VEO3 — vertical \*\*16:9\*\*, \*\*one‑take\*\*, \*\*no cuts\*\*, \*\*no zoom\*\*, \*\*fixed focal\*\*. Textos prontos em \*\*inglês\*\* para colar em \`camera\` / \`camera\_setup\` e guias de tempo para \*\*até 8s\*\*.
 
 \---
 
 \#\# 1\) Princípios essenciais (aplicar em todos os prompts)  
-\- \*\*Vertical only:\*\* \`aspect\_ratio: "9:16"\`.  
+\- \*\*Vertical only:\*\* \`aspect\_ratio: "16:9"\`.  
 \- \*\*Tomada única:\*\* descreva \*\*um\*\* caminho contínuo (sem cortes).  
 \- \*\*Sem zoom:\*\* declare \*\*fixed focal length\*\* (ex.: 35 mm).  
 \- \*\*Estabilidade:\*\* prefira “stabilized tracking”; se usar \*\*whip‑tilt\*\*/\*\*whip‑pan\*\*, limite a 0.3–0.6 s.  

@@ -6,4 +6,4 @@
 4. Reels: genio-dos-reels → designer-de-capas; vídeo generativo: vision.
 5. Anúncios: copywriter-anuncios-headlines → designer-de-anuncios.
 
-Não há execução direta de Canva, Flow, Sora, VEO ou ElevenLabs: as skills geram instruções e prompts.
+O plugin fornece instruções e referências. Execução em Canva, Flow ou serviços de mídia depende das ferramentas e contas disponíveis na sessão; não presuma conexão nem geração concluída.

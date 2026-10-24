@@ -1,5 +1,5 @@
 \# KB/timing\_templates\_8s.md  
-Modelos de \*\*tempo e ritmo\*\* para prompts do \*\*VEO3\*\* em \*\*vertical (9:16)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, com \*\*duração máxima de 8s\*\*. Textos prontos em \*\*inglês\*\* para colar nos campos \`motion\`, \`timeline\` e \`audio\`.
+Modelos de \*\*tempo e ritmo\*\* para prompts do \*\*VEO3\*\* em \*\*vertical (16:9)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, com \*\*duração máxima de 8s\*\*. Textos prontos em \*\*inglês\*\* para colar nos campos \`motion\`, \`timeline\` e \`audio\`.
 
 \---
 

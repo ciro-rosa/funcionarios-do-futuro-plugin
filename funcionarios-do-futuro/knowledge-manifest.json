@@ -1,0 +1,885 @@
+{
+  "version": "1.2.0",
+  "text_hash_format": "SHA256 of UTF-8 text with LF newlines; original files use raw bytes",
+  "skills": [
+    {
+      "skill": "analista-estrategico-de-publico-e-mercado",
+      "name": "Analista Estratégico de Público e Mercado",
+      "original_instruction_sha256": "e7a140f19ca2b89bdf4b386959cbc21e4cf1542c8e5380b46c03789899095c51",
+      "active_instruction_sha256": "7bffec0ecc650f8b20481e0b2abeeab0a056b6e37ef87e15a092ad32fa3979cc",
+      "attachments": []
+    },
+    {
+      "skill": "bio-magnetica",
+      "name": "🧲 A Bio Magnética",
+      "original_instruction_sha256": "10ba573bd960852076fa0cae2223f1f3e849e71dcfa55019b9d1669493af946f",
+      "active_instruction_sha256": "de2523672beb75a2d9f564f3de1321da3d606176b129fdfe6370d06421682399",
+      "attachments": []
+    },
+    {
+      "skill": "consultora-de-perfil",
+      "name": "O Consultor de Perfil",
+      "original_instruction_sha256": "ed87e7e75bc7724e24445934078837d6e0b033b9faba30079cae3361e067de03",
+      "active_instruction_sha256": "a7bda0e53a46730204054b90a681085348df5fe8115c2bd0eb83f36c0f3d6bbb",
+      "attachments": []
+    },
+    {
+      "skill": "copywriter-anuncios-headlines",
+      "name": "Copyriter Anúncios & Headlines 2.0",
+      "original_instruction_sha256": "e8a2306e35e7e0c76e409614368007984ebe944bc9935810468c822f59ab5466",
+      "active_instruction_sha256": "c80171ca74b7b07555b23c2b02c53ffd1f884866feba6aab7e372a8d795ba616",
+      "attachments": [
+        {
+          "original_name": "Base de Conhecimento de Copywriting de Alta Conversão em Português.pdf",
+          "sha256": "316ad608591a16667c2cfc1e3d2fedead36996432b3f63bf906b480057d6b325",
+          "path": "references/base-de-conhecim-316ad608.md",
+          "original_copy": "references/originais/base-de-conhecim-316ad608.pdf",
+          "consultation_sha256": "581e4f24bcd34bba9f16b8b699b33c200451a23229b2b1bb9c2e72765f44b791",
+          "historical_only": false
+        },
+        {
+          "original_name": "Arquivo de Base de Conhecimento Otimizado para LLM.pdf",
+          "sha256": "1f43766bf6a3e91892eace6ec36a186097642761c3aab18aff139f457cb7de94",
+          "path": "references/arquivo-de-base-1f43766b.md",
+          "original_copy": "references/originais/arquivo-de-base-1f43766b.pdf",
+          "consultation_sha256": "f540d93809f207591239f92369962aa893ef2a730d099e4e7ccabd20325cc3dc",
+          "historical_only": false
+        },
+        {
+          "original_name": "Técnicas de Copywriting de Alta Conversão.pdf",
+          "sha256": "4099dbdfe0e01087b6f989e38b0c20722b1d6d2f9c6613d51275733619ee9b38",
+          "path": "references/tecnicas-de-copy-4099dbdf.md",
+          "original_copy": "references/originais/tecnicas-de-copy-4099dbdf.pdf",
+          "consultation_sha256": "572a94cafdad44efcc9e21e63cfafdbdc095b7b4e4dbda68380bbfd15190d87d",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "copywriter-profissional",
+      "name": "GPT Copywriter Profissional | Copy para Vendas",
+      "original_instruction_sha256": "f0bfcb502612f5ab299fdd714d8cb79e9857fa5f64931478860b2cc9659829ab",
+      "active_instruction_sha256": "26ab093127af8c9c1fa10bb3fb6127eeb63c5513613db8b49794bafbbd4b5959",
+      "attachments": [
+        {
+          "original_name": "Base de Conhecimento Validada_ Copy com Storytelling para Roteiros Curtos.docx",
+          "sha256": "d8a3fa3d2eb1ae5f46e00e105864ca108bea2a3c6682eed897b19a7a3d8ee551",
+          "path": "references/base-de-conhecim-d8a3fa3d.md",
+          "original_copy": "references/originais/base-de-conhecim-d8a3fa3d.docx",
+          "consultation_sha256": "6f911a9353cb18fa2b3d396afc5cc6b2ea3b1dcda5d126e4bc8e9afd3885ff7b",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Copywriting Adaptado a Algoritmos e Plataformas.docx",
+          "sha256": "f44adf54d659c2feffbf408324070dfe16ff304181d6546ef8e1cc77d1ce3a85",
+          "path": "references/base-de-conhecim-f44adf54.md",
+          "original_copy": "references/originais/base-de-conhecim-f44adf54.docx",
+          "consultation_sha256": "0904af5bb39056269c8c6bd6ff25f4da39885d826e65dcdb3abf2e32806cc6e5",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Copywriting com Provas Sociais e Autoridade.docx",
+          "sha256": "879441d84fb9bd7caedf6b536efeb0abffc110ea218f280185c2b3c5085e051a",
+          "path": "references/base-de-conhecim-879441d8.md",
+          "original_copy": "references/originais/base-de-conhecim-879441d8.docx",
+          "consultation_sha256": "7d737906c9c108815c5b9239c74a2092e2703e1406358c78d8cddc941cf3bed6",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Copywriting por Etapa da Jornada do Cliente.docx",
+          "sha256": "280b5892c11527044a8494b8fbbce689a0f766da38dca959a9ab11c6fe0956b9",
+          "path": "references/base-de-conhecim-280b5892.md",
+          "original_copy": "references/originais/base-de-conhecim-280b5892.docx",
+          "consultation_sha256": "a96ffe306a4358268c9180ad0be112201d21d3c8402c18b0bfbae4b78ec7eea4",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Copywriting por Nicho de Mercado.docx",
+          "sha256": "e1668f21bb1bbba37b9973e5194bdafcd94ec4242b8fb174859f12f8d008300b",
+          "path": "references/base-de-conhecim-e1668f21.md",
+          "original_copy": "references/originais/base-de-conhecim-e1668f21.docx",
+          "consultation_sha256": "83c9a8c39c926259b09db129b8b854a84431e3c8e47a7dcb25c4cae05bfc79d4",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Engenharia de Prompts Visuais para Imagens no ChatGPT.docx",
+          "sha256": "a2e5a8e31fe1d9f90400b711b0426ca32dabababbd5017bf822b4e1665f1fa7d",
+          "path": "references/base-de-conhecim-a2e5a8e3.md",
+          "original_copy": "references/originais/base-de-conhecim-a2e5a8e3.docx",
+          "consultation_sha256": "08edb35d763a270c77fc0a93013a34480bddd907d96d840a7f97430f0909fad3",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Mapeamento entre Nível de Consciência e Nicho de Mercado.docx",
+          "sha256": "08b065f6eb69924c2d632774ad1564e231bb366118f0dd9bd3b8aa3c12a6bb65",
+          "path": "references/base-de-conhecim-08b065f6.md",
+          "original_copy": "references/originais/base-de-conhecim-08b065f6.docx",
+          "consultation_sha256": "01648c6bf23ca7031b45c3e3164e6a610578b1dfb92877310bb09753b64b037c",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento_ CTAs Estratégicos para Cada Estágio da Jornada.docx",
+          "sha256": "24b6a8f8b1791a9a65d7bd5d2dfb2ffbff0b4937f706d8ddd86c01d0b5681dd5",
+          "path": "references/base-de-conhecim-24b6a8f8.md",
+          "original_copy": "references/originais/base-de-conhecim-24b6a8f8.docx",
+          "consultation_sha256": "93d6556cc2cff5a007cb8ee2a7588e3ec3f8a4cbc103e29ccc5e51c279fda09f",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento_ Leads, Headlines e Ganchos de Alta Conversão.docx",
+          "sha256": "eec44c7a7d582d981d914094368028580e56bff90a4c9a28b0d0e36f7d27fb5f",
+          "path": "references/base-de-conhecim-eec44c7a.md",
+          "original_copy": "references/originais/base-de-conhecim-eec44c7a.docx",
+          "consultation_sha256": "fefa3405d591481ff465483ce8851246eec0254bc1ec9fbeb19531f16127d178",
+          "historical_only": false
+        },
+        {
+          "original_name": "Complemento Técnico à Base de Fundamentos Clássicos do Copywriting.docx",
+          "sha256": "53e849a25f42e10a4289ff45c3c64984296701909fa744d7b13b3bb73b968b12",
+          "path": "references/complemento-tecn-53e849a2.md",
+          "original_copy": "references/originais/complemento-tecn-53e849a2.docx",
+          "consultation_sha256": "098e08c7d6d306c48760221f8d742cc5b84ebd66a49cfa22934f5643dd6fbd6c",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Copywriting para Anúncios Meta Ads (Topo, Meio e Fundo de Funil).docx",
+          "sha256": "611f3aec9c60359cc605fe2b3f8fe99b5b27f563f719cb831d624c7d5e9988cd",
+          "path": "references/base-de-conhecim-611f3aec.md",
+          "original_copy": "references/originais/base-de-conhecim-611f3aec.docx",
+          "consultation_sha256": "dc9134ad21ffc2498bd70e678c9e284b57246052ed7756ae68435d47de2b0e29",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Copywriting para Instagram e TikTok.docx",
+          "sha256": "914d49d415024a4bead463d6ddbcf66ddea72e880a8496a1b0f5938e68ef2410",
+          "path": "references/base-de-conhecim-914d49d4.md",
+          "original_copy": "references/originais/base-de-conhecim-914d49d4.docx",
+          "consultation_sha256": "1896bade63155e356d3da4b84f634dbfcd2b7976fd5fa380003e0a50dec861e7",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Estudo de Modelos Reais de Copy com Alta Performance.docx",
+          "sha256": "231e23dce7efa74d302d6467319743d377e562e598569bc689472fda891aaa5e",
+          "path": "references/base-de-conhecim-231e23dc.md",
+          "original_copy": "references/originais/base-de-conhecim-231e23dc.docx",
+          "consultation_sha256": "3a9920964c33189e4d1fab25287c4704d4ca53b037cb5934ae9a84ca37af40f5",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Copywriting para Vídeos Curtos (Reels, Shorts, TikToks).docx",
+          "sha256": "f525d98e3bd942dcb7923315a3fc25bef7b9e5a9c4171581931a7878d807e7c3",
+          "path": "references/base-de-conhecim-f525d98e.md",
+          "original_copy": "references/originais/base-de-conhecim-f525d98e.docx",
+          "consultation_sha256": "49f84e94399309fc14fcbd522a9fe9849e58d853cf1046c18a77bc69d02139aa",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento Validada_ Técnicas Avançadas de Persuasão com Neurocopy e Psicologia da Decisão.docx",
+          "sha256": "8d6899d5f3bf2271c9a9f0791ff799fbde4c332f744d8f198935499377ca8b3c",
+          "path": "references/base-de-conhecim-8d6899d5.md",
+          "original_copy": "references/originais/base-de-conhecim-8d6899d5.docx",
+          "consultation_sha256": "236a0857b927c5ad3dc8cef8970cc54394367cf112ad90ca576c17c58dd8bb74",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento_ Escrita Persuasiva Direta, Curta e Magnética.docx",
+          "sha256": "a497e09709f4059cba270a8998e44f91727996e2d56cfbbdd99fa37f9fa330a3",
+          "path": "references/base-de-conhecim-a497e097.md",
+          "original_copy": "references/originais/base-de-conhecim-a497e097.docx",
+          "consultation_sha256": "fc1b163d7be6c1dbe588d60d2986b1d892760e8372b3257bc4c6f0cc9fd8b26d",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento_ Fundamentos Clássicos do Copywriting.docx",
+          "sha256": "86a47e1fdb0a6dfbcfbb6e436732db1459eb4f0d790561417d6a07a0ada57ec7",
+          "path": "references/base-de-conhecim-86a47e1f.md",
+          "original_copy": "references/originais/base-de-conhecim-86a47e1f.docx",
+          "consultation_sha256": "cdc13470fb5a7f7bd4a6b930205ac4e53bc1098fcf68721da246406d110c4472",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base de Conhecimento_ Gatilhos Mentais Aplicados à Copy.docx",
+          "sha256": "562d5027455827c8973f15e79ac09374a5c927849c7ff46c3fcc82bf970044da",
+          "path": "references/base-de-conhecim-562d5027.md",
+          "original_copy": "references/originais/base-de-conhecim-562d5027.docx",
+          "consultation_sha256": "59693092401694af4e99ed1a42d27d34bb1038102de0393a1c8d9ea3185146d2",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "criador-de-posts",
+      "name": "💸 O Criador de Posts que Vendem",
+      "original_instruction_sha256": "95f7eb1ecb05edf9fd029eb2da6ca7e4fd7875a14a5214aa11b883978b2b333b",
+      "active_instruction_sha256": "79c9cb9981afac0875869d8f1ddeed411fbb2b62cad627635d6b1b0b0dc7f4b8",
+      "attachments": []
+    },
+    {
+      "skill": "designer-mestre",
+      "name": "🎨 Designer Mestre",
+      "original_instruction_sha256": "219b18d604656fe21d27855f2e88fb1fda5012adc7a5e8b2ef4031a87eb024e7",
+      "active_instruction_sha256": "68826e4ca5a184b420d7b35cb4744008b1d912720dc703d56b819fee0bd94e3a",
+      "attachments": [
+        {
+          "original_name": "Base de Conhecimento Validada_ Engenharia de Prompts Visuais para Imagens no ChatGPT (1).docx",
+          "sha256": "3a5ac4b9b41ec1239a1c02828ce5ab0ab0e07af8cd155f3878610137679e93bc",
+          "path": "references/base-de-conhecim-3a5ac4b9.md",
+          "original_copy": "references/originais/base-de-conhecim-3a5ac4b9.docx",
+          "consultation_sha256": "9ed12aecee2ca3b5800fcc93d5efd48a3190df60a705a62aa54555d9b925bc79",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "designer-recriador",
+      "name": "Designer Recriador",
+      "original_instruction_sha256": "53cc1d1e06d408c364615c302c35ebbeb5a5eb66751e2098c77a969be113df83",
+      "active_instruction_sha256": "0ea137d510f4aa8e6486d29b1dbef032be999109b1c9df919cb1138baf0cf9a3",
+      "attachments": []
+    },
+    {
+      "skill": "designer-de-anuncios",
+      "name": "Designer de Anúncios 2.0",
+      "original_instruction_sha256": "8fb28da4874d9474bc72aa804861e124ed339359a5c36619e62088ed08fc674d",
+      "active_instruction_sha256": "8058e0ae6e1f48f69fcacd7cf76f6d8b086899b6bc14d367adf1111265283162",
+      "attachments": []
+    },
+    {
+      "skill": "designer-de-capas",
+      "name": "Designer de Capas",
+      "original_instruction_sha256": "ab9bcf09cf007e13ca62d9d59a084247a18e72168cba5cfc5c734524bb1069f0",
+      "active_instruction_sha256": "73cc344dc272ab84fbb38265ad079d8548b181ff7887fb5456481dd5b93d59c5",
+      "attachments": []
+    },
+    {
+      "skill": "designer-de-carrosseis",
+      "name": "Designer de Carrosséis 2.0",
+      "original_instruction_sha256": "d7517cab4abe67b9df7588cafe0255fdd0945dc1bb17e52e9d54c6a880b4b662",
+      "active_instruction_sha256": "eea365ff293ac9e4df25bc396f5a3a07b7e91642fc9403eedcfd296af6096519",
+      "attachments": []
+    },
+    {
+      "skill": "designer-de-produtos",
+      "name": "Designer de Produtos 2.0",
+      "original_instruction_sha256": "9ca41ec1b5ded2225ce30912294543552d11f03d2275edbe0c70577cb413ab9f",
+      "active_instruction_sha256": "2bc4b874d4f2d83af244f8bc5bfde01d6d6d36e4c7f9d8cbcb3b49a88ffdf894",
+      "attachments": []
+    },
+    {
+      "skill": "designer-de-quadrinhos-virais",
+      "name": "Quadrinhos Virais",
+      "original_instruction_sha256": "1843f1fd3ce4bd5dc2de2a9d189025a1cc7f7774d76822a6e1f496f1c8246bd1",
+      "active_instruction_sha256": "d60dc6073a922be8c300e1402e07ba3fba0438a3a1ba34ae4c023b4f9c265468",
+      "attachments": [
+        {
+          "original_name": "DIREÇÃO VISUAL + PROMPT ENGINEERING – HQ DE CONTEÚDO PARA REDES SOCIAIS.md",
+          "sha256": "3e6a8ccb6090bb1b5957e48163e8458d06744471bf0fcdecd1b7f70e8d57afe8",
+          "path": "references/direcao-visual-p-3e6a8ccb.md",
+          "original_copy": "references/originais/direcao-visual-p-3e6a8ccb.md",
+          "consultation_sha256": "48c98ba559b3d6217a882bf3edcc0cc3efe7ca9e9c3acad19d61f92e74506b58",
+          "historical_only": false
+        },
+        {
+          "original_name": "CHECKLISTS E PADRÕES DE QUALIDADE – HQ DE CONTEÚDO PARA REDES SOCIAIS.md",
+          "sha256": "718d87692daef45764ff3e0f19409d14a06637f1b191393351cc0fdacd233a46",
+          "path": "references/checklists-e-pad-718d8769.md",
+          "original_copy": "references/originais/checklists-e-pad-718d8769.md",
+          "consultation_sha256": "29edc7136bbf6ddf8339e6f48eb14244f27e40b311a68dc95286868e3448bdf6",
+          "historical_only": false
+        },
+        {
+          "original_name": "DIREÇÃO CRIATIVA – HQ DE CONTEÚDO PARA REDES SOCIAIS.md",
+          "sha256": "a23a2eb7e575c5a96dabb2979943b29ab79454701fb34902f4146b36cdeee3a3",
+          "path": "references/direcao-criativa-a23a2eb7.md",
+          "original_copy": "references/originais/direcao-criativa-a23a2eb7.md",
+          "consultation_sha256": "9f6def0ce0dec4e63c2b9f73d609baeededf1a2732493a681f29fff715f3af3e",
+          "historical_only": false
+        },
+        {
+          "original_name": "NORMAS LINGUÍSTICAS E TÉCNICAS – HQ DE CONTEÚDO PARA REDES SOCIAIS.md",
+          "sha256": "58bcefc0bd59b7bb93da697187508ce1ca4db664d8be69495b2217066d82140d",
+          "path": "references/normas-linguisti-58bcefc0.md",
+          "original_copy": "references/originais/normas-linguisti-58bcefc0.md",
+          "consultation_sha256": "0460b6ac7ab688d093bcd268a296939f62121d5c1251e89d719533fd384540bb",
+          "historical_only": false
+        },
+        {
+          "original_name": "PROTEÇÃO, COMPLIANCE E SEGURANÇA – HQ DE CONTEÚDO PARA REDES SOCIAIS.md",
+          "sha256": "12ba35d9d8cc8c9c4304149aa548cb7ac43a255bf792b657fa8deace53ca839d",
+          "path": "references/protecao-complia-12ba35d9.md",
+          "original_copy": "references/originais/protecao-complia-12ba35d9.md",
+          "consultation_sha256": "3624bcccbd0b43b51673bcd05696f492baa9d56be8124bf26c22d861100664f9",
+          "historical_only": true
+        },
+        {
+          "original_name": "FALLBACKS E CORREÇÕES DE ERROS – HQ DE CONTEÚDO PARA REDES SOCIAIS.md",
+          "sha256": "f6b946772d1bca4e59d726a19717f78209647e8493814198eaf9e485f926d68a",
+          "path": "references/fallbacks-e-corr-f6b94677.md",
+          "original_copy": "references/originais/fallbacks-e-corr-f6b94677.md",
+          "consultation_sha256": "b4bb29b037a49cfb690b2811710ac94a00757e4c5ad1434c8fd9eea1e8425d1c",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "designer-de-stories",
+      "name": "Designer de Stories",
+      "original_instruction_sha256": "abec9981d33e35bac614f8aba9833cef7b5aff3442fcba37804e10b67b122348",
+      "active_instruction_sha256": "420b013e443dd4107c391b6af0c77932469ac241b0bb07ce9b033ba334466303",
+      "attachments": []
+    },
+    {
+      "skill": "designer-do-feed",
+      "name": "🎨 Designer do Futuro",
+      "original_instruction_sha256": "0091b0954725d54bd448d2708d6db350e67a9788bd05f4959deef5780c78e8c3",
+      "active_instruction_sha256": "c9457558a802c7db7d9e0d259be327d1743031630a322983dfa4c9e5cbbedd43",
+      "attachments": [
+        {
+          "original_name": "Base de Conhecimento Validada_ Engenharia Visual 2.0.docx",
+          "sha256": "0630dcea5f57a603b767a78c4db9d175273686b633cc4667d4cfcf71255d8f54",
+          "path": "references/base-de-conhecim-0630dcea.md",
+          "original_copy": "references/originais/base-de-conhecim-0630dcea.docx",
+          "consultation_sha256": "32b88760bb51cb21d3db3642c00dd0dea5e91efa32b03eede53287d43a349fb2",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "eleven-prompter-pro",
+      "name": "ELEVEN PROMPTER PRO",
+      "original_instruction_sha256": "66d747798c6b5347ff0f617da1558d038f3aba26510fe920798903c2927cdeb7",
+      "active_instruction_sha256": "8e9c33b72d52e1fb7840a88669ddcf49cf1cc895a07f58cebf1ad8a8cb854ee6",
+      "attachments": []
+    },
+    {
+      "skill": "gerador-de-reels-em-massa",
+      "name": "Gerador de Reels em Massa",
+      "original_instruction_sha256": "5ce00887dffe11757240e523999451eff28b4ba8af354d7b1110724d030c54db",
+      "active_instruction_sha256": "d1397857a546ae8d04b38167debe67c22d39c971e3401caaa07dc00a1af491d9",
+      "attachments": [
+        {
+          "original_name": "Base_1_Tecnicas_Copywriting_Ganchos.md",
+          "sha256": "e7006991ffe9ed45fe87d7e1da35d80e59741791b249b16131ac09879f326681",
+          "path": "references/base-1-tecnicas-e7006991.md",
+          "original_copy": "references/originais/base-1-tecnicas-e7006991.md",
+          "consultation_sha256": "e7006991ffe9ed45fe87d7e1da35d80e59741791b249b16131ac09879f326681",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base_5_Palavras_Chave_Canva.md",
+          "sha256": "f7ca2e73122e175cf4b939914aad9f804030944b820662832d3d656cd5ff93ec",
+          "path": "references/base-5-palavras-f7ca2e73.md",
+          "original_copy": "references/originais/base-5-palavras-f7ca2e73.md",
+          "consultation_sha256": "f7ca2e73122e175cf4b939914aad9f804030944b820662832d3d656cd5ff93ec",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base_8_Modelos_Calendario_Editorial.md",
+          "sha256": "48b99fe0155e05b3088eb604a2ac86d2679b0144d9e9bfac7390af157eb9fa85",
+          "path": "references/base-8-modelos-c-48b99fe0.md",
+          "original_copy": "references/originais/base-8-modelos-c-48b99fe0.md",
+          "consultation_sha256": "48b99fe0155e05b3088eb604a2ac86d2679b0144d9e9bfac7390af157eb9fa85",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base_2_Estruturas_Legenda_Reels.md",
+          "sha256": "52b1b1c8aa59f4e510307d47445d371966df4e3be232c95b1ec0b484a8e861a4",
+          "path": "references/base-2-estrutura-52b1b1c8.md",
+          "original_copy": "references/originais/base-2-estrutura-52b1b1c8.md",
+          "consultation_sha256": "52b1b1c8aa59f4e510307d47445d371966df4e3be232c95b1ec0b484a8e861a4",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base_3_CTAs_Estrategicos_Engajamento.md",
+          "sha256": "91a31968d486d211a41e08b25adec8d7a3e4e9fc1bbe2389372ba57f1645c96e",
+          "path": "references/base-3-ctas-estr-91a31968.md",
+          "original_copy": "references/originais/base-3-ctas-estr-91a31968.md",
+          "consultation_sha256": "91a31968d486d211a41e08b25adec8d7a3e4e9fc1bbe2389372ba57f1645c96e",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base_4_Hashtags_Inteligentes_Por_Nicho.md",
+          "sha256": "743db47db2275357f086b923c06443c2eb3969b2c2415ef5b7830dc0413d005d",
+          "path": "references/base-4-hashtags-743db47d.md",
+          "original_copy": "references/originais/base-4-hashtags-743db47d.md",
+          "consultation_sha256": "743db47db2275357f086b923c06443c2eb3969b2c2415ef5b7830dc0413d005d",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base_6_Variacoes_Bloco2_Leia_Legenda.md",
+          "sha256": "c35aed1ed77a950e9b8fab5e548d1aabd0d3aa5dc0afb86d653549b8e3b10562",
+          "path": "references/base-6-variacoes-c35aed1e.md",
+          "original_copy": "references/originais/base-6-variacoes-c35aed1e.md",
+          "consultation_sha256": "c35aed1ed77a950e9b8fab5e548d1aabd0d3aa5dc0afb86d653549b8e3b10562",
+          "historical_only": false
+        },
+        {
+          "original_name": "Base_7_Tonalidades_de_Comunicacao.md",
+          "sha256": "126731a6e4637b5fd58984b78cc3d2d8b745bd2cb77073f248d1b30acc32496c",
+          "path": "references/base-7-tonalidad-126731a6.md",
+          "original_copy": "references/originais/base-7-tonalidad-126731a6.md",
+          "consultation_sha256": "126731a6e4637b5fd58984b78cc3d2d8b745bd2cb77073f248d1b30acc32496c",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "genio-dos-reels",
+      "name": "🧞‍♂️ O Gênio dos Reels",
+      "original_instruction_sha256": "714f19bff21bbb74268369cbaf0d2e37f73ea6c2ca0549d5f024341ac7e2782b",
+      "active_instruction_sha256": "7ed6f622d1236af79ab3375e4ebe81d08dd6c0db4493e32cd2075e6717923b55",
+      "attachments": [
+        {
+          "original_name": "Angulos.txt",
+          "sha256": "5d5ed33d0c67d54a72f69ac731e89218fce6fac8b112e268ee2d3cd86c67fa3b",
+          "path": "references/angulos-5d5ed33d.txt",
+          "original_copy": "references/originais/angulos-5d5ed33d.txt",
+          "consultation_sha256": "1900bb40c411fc272b6d2b780e483376cd54c53ddd6ca504cba0a458b3d04a5a",
+          "historical_only": false
+        },
+        {
+          "original_name": "ChamadasParaAcao.txt",
+          "sha256": "25ffd758d03d4604a774697cbd018598b2200fa32c248c366470fb65f1222513",
+          "path": "references/chamadasparaacao-25ffd758.txt",
+          "original_copy": "references/originais/chamadasparaacao-25ffd758.txt",
+          "consultation_sha256": "f623e4953774059f1bd1dc1c6f5114598b4906135583f2ce58bce41ee0ee45e0",
+          "historical_only": false
+        },
+        {
+          "original_name": "GanchosVirais.txt",
+          "sha256": "03bc626e73e430d11beff95cc505228e33c39da6689ab7ec71cf08d27316c701",
+          "path": "references/ganchosvirais-03bc626e.txt",
+          "original_copy": "references/originais/ganchosvirais-03bc626e.txt",
+          "consultation_sha256": "17641cf8d19ea5d584c7d1ecbc5144565a8439e2003efa40be935ff02671d3e0",
+          "historical_only": false
+        },
+        {
+          "original_name": "Titulos.txt",
+          "sha256": "92bcbd908461a640c1c8886c0323829b471a515ba419251835e522779576a6e7",
+          "path": "references/titulos-92bcbd90.txt",
+          "original_copy": "references/originais/titulos-92bcbd90.txt",
+          "consultation_sha256": "1552672b4e680b96573c17a45e827808a1b827c49f898f60419584f403235a7b",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "hacker-dos-carrosseis",
+      "name": "🧠 O Hacker dos Carrosséis",
+      "original_instruction_sha256": "d69801a148c06c019fdfba7eb2baa05c4d9663c0678d69244dc41ab32d8bd28f",
+      "active_instruction_sha256": "e7f3b7bba2df767951c239e4936e5eb7c0f815c0492a4a0c6f9c3dd6a11a5462",
+      "attachments": [
+        {
+          "original_name": "ChamadasParaAcao.txt",
+          "sha256": "25ffd758d03d4604a774697cbd018598b2200fa32c248c366470fb65f1222513",
+          "path": "references/chamadasparaacao-25ffd758.txt",
+          "original_copy": "references/originais/chamadasparaacao-25ffd758.txt",
+          "consultation_sha256": "f623e4953774059f1bd1dc1c6f5114598b4906135583f2ce58bce41ee0ee45e0",
+          "historical_only": false
+        },
+        {
+          "original_name": "CoresCarrossel.txt",
+          "sha256": "a8e1a231aa470b9dfecfadfb047126a74254aa590192d38aecd1eead2a6a5f71",
+          "path": "references/corescarrossel-a8e1a231.txt",
+          "original_copy": "references/originais/corescarrossel-a8e1a231.txt",
+          "consultation_sha256": "9c1ccc5fbbc2b497b265995b27433777922e4329089e6512390b573ce30ae734",
+          "historical_only": false
+        },
+        {
+          "original_name": "GanchosVirais.txt",
+          "sha256": "03bc626e73e430d11beff95cc505228e33c39da6689ab7ec71cf08d27316c701",
+          "path": "references/ganchosvirais-03bc626e.txt",
+          "original_copy": "references/originais/ganchosvirais-03bc626e.txt",
+          "consultation_sha256": "17641cf8d19ea5d584c7d1ecbc5144565a8439e2003efa40be935ff02671d3e0",
+          "historical_only": false
+        },
+        {
+          "original_name": "Angulos.txt",
+          "sha256": "5d5ed33d0c67d54a72f69ac731e89218fce6fac8b112e268ee2d3cd86c67fa3b",
+          "path": "references/angulos-5d5ed33d.txt",
+          "original_copy": "references/originais/angulos-5d5ed33d.txt",
+          "consultation_sha256": "1900bb40c411fc272b6d2b780e483376cd54c53ddd6ca504cba0a458b3d04a5a",
+          "historical_only": false
+        },
+        {
+          "original_name": "Titulos.txt",
+          "sha256": "92bcbd908461a640c1c8886c0323829b471a515ba419251835e522779576a6e7",
+          "path": "references/titulos-92bcbd90.txt",
+          "original_copy": "references/originais/titulos-92bcbd90.txt",
+          "consultation_sha256": "1552672b4e680b96573c17a45e827808a1b827c49f898f60419584f403235a7b",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "mestre-das-enquetes",
+      "name": "🎯 O Mestre das Enquetes",
+      "original_instruction_sha256": "a15658d1d6929902e67e3f3d5d42b69643d8afbb95f2cbdc2abae1bdae54866f",
+      "active_instruction_sha256": "d838c731aaeaa8a4a828ff9f1a18b306dcdbb0470fc97cd6ca47f2869d49af35",
+      "attachments": []
+    },
+    {
+      "skill": "mestre-dos-clones",
+      "name": "Mestre dos Clones",
+      "original_instruction_sha256": "1d6300c77bdcb46d6cc6748c8fb42d6986cf63d66d2f521f712053c7f8fcf82c",
+      "active_instruction_sha256": "af24c32867df6ea310862e829362c366af302100c191cf1d91c640217e21da87",
+      "attachments": [
+        {
+          "original_name": "estilos_visuais_e_artisticos.txt",
+          "sha256": "7c4ca351eb7186140462f503ea441dea50c3f7563724598d525451e90197353e",
+          "path": "references/estilos-visuais-7c4ca351.txt",
+          "original_copy": "references/originais/estilos-visuais-7c4ca351.txt",
+          "consultation_sha256": "7c4ca351eb7186140462f503ea441dea50c3f7563724598d525451e90197353e",
+          "historical_only": false
+        },
+        {
+          "original_name": "tecnicas_fotograficas.txt",
+          "sha256": "b17cfbfe89662fd5b80be2c2255c7796fb2a3c2db389e70d1f7183f0db2ee84f",
+          "path": "references/tecnicas-fotogra-b17cfbfe.txt",
+          "original_copy": "references/originais/tecnicas-fotogra-b17cfbfe.txt",
+          "consultation_sha256": "b17cfbfe89662fd5b80be2c2255c7796fb2a3c2db389e70d1f7183f0db2ee84f",
+          "historical_only": false
+        },
+        {
+          "original_name": "termos_de_engenharia_de_prompt.txt",
+          "sha256": "116493d0d2970cea333bf105480d2f5403b0708274afe01e668c6cd0005f2501",
+          "path": "references/termos-de-engenh-116493d0.txt",
+          "original_copy": "references/originais/termos-de-engenh-116493d0.txt",
+          "consultation_sha256": "116493d0d2970cea333bf105480d2f5403b0708274afe01e668c6cd0005f2501",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "mestre-dos-prompts-para-video-em-json",
+      "name": "Mestre dos Prompts para Vídeo em JSON",
+      "original_instruction_sha256": "758d27476b5302d16c3dcdfa27043f1e9b1a8274610e1cb98363c0b2aa8da343",
+      "active_instruction_sha256": "359a5acf499a8a1740a6b73662f041f85248245885086cb634b8e09e23cddd2a",
+      "attachments": [
+        {
+          "original_name": "veo3_json_schema.md",
+          "sha256": "7774358b9c4c07d37cde54a3ca2c5a23f7fe15eb0452c7829e6885595c4c30bb",
+          "path": "references/veo3-json-schema-7774358b.md",
+          "original_copy": "references/originais/veo3-json-schema-7774358b.md",
+          "consultation_sha256": "7774358b9c4c07d37cde54a3ca2c5a23f7fe15eb0452c7829e6885595c4c30bb",
+          "historical_only": false
+        },
+        {
+          "original_name": "camera_move_recipes.md",
+          "sha256": "54036f08fc89c087376b2e9368c6002e091a1858447294c3fe6e979acf9c0477",
+          "path": "references/camera-move-reci-54036f08.md",
+          "original_copy": "references/originais/camera-move-reci-54036f08.md",
+          "consultation_sha256": "54036f08fc89c087376b2e9368c6002e091a1858447294c3fe6e979acf9c0477",
+          "historical_only": false
+        },
+        {
+          "original_name": "audio_sfx_catalog.md",
+          "sha256": "81806d7888149b360cac8b1e526e5caa8c3a4ba76dd40112db6d31528c1a3cc8",
+          "path": "references/audio-sfx-catalo-81806d78.md",
+          "original_copy": "references/originais/audio-sfx-catalo-81806d78.md",
+          "consultation_sha256": "81806d7888149b360cac8b1e526e5caa8c3a4ba76dd40112db6d31528c1a3cc8",
+          "historical_only": false
+        },
+        {
+          "original_name": "lighting_palettes.md",
+          "sha256": "cf1bc5aab0d3024c7c9eb8ee97edb946ef907f90124dbb7b9f102075190a513b",
+          "path": "references/lighting-palette-cf1bc5aa.md",
+          "original_copy": "references/originais/lighting-palette-cf1bc5aa.md",
+          "consultation_sha256": "cf1bc5aab0d3024c7c9eb8ee97edb946ef907f90124dbb7b9f102075190a513b",
+          "historical_only": false
+        },
+        {
+          "original_name": "timing_templates_8s.md",
+          "sha256": "e3888d294fc32af33110d8f52936111024a9a23dba11fddd3b493fb4baa0dddb",
+          "path": "references/timing-templates-e3888d29.md",
+          "original_copy": "references/originais/timing-templates-e3888d29.md",
+          "consultation_sha256": "e3888d294fc32af33110d8f52936111024a9a23dba11fddd3b493fb4baa0dddb",
+          "historical_only": false
+        },
+        {
+          "original_name": "negative_prompts_catalog.md",
+          "sha256": "6dfdf086bf8fdc80bb8c17b1e0e44200f5218d421e57f87c2293e7def81e4199",
+          "path": "references/negative-prompts-6dfdf086.md",
+          "original_copy": "references/originais/negative-prompts-6dfdf086.md",
+          "consultation_sha256": "6dfdf086bf8fdc80bb8c17b1e0e44200f5218d421e57f87c2293e7def81e4199",
+          "historical_only": false
+        },
+        {
+          "original_name": "qa_checklist.md",
+          "sha256": "dea03173e611cad8d7fb70532573e58094b5984d87869cff99a7ca726b41a497",
+          "path": "references/qa-checklist-dea03173.md",
+          "original_copy": "references/originais/qa-checklist-dea03173.md",
+          "consultation_sha256": "dea03173e611cad8d7fb70532573e58094b5984d87869cff99a7ca726b41a497",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "musa-das-legendas",
+      "name": "💃 A Musa das Legendas",
+      "original_instruction_sha256": "077db8959274edd5f6196623f87cf53dbd6ecbee644ed9a8bd2fbadae7ca8130",
+      "active_instruction_sha256": "9472345c038c2bf83ec5cfc933fb9328e58b8ae73b254e2cfe4b4f03df8c8d97",
+      "attachments": []
+    },
+    {
+      "skill": "o-roteirista-dos-stories",
+      "name": "✍️ O Roteirista dos Stories",
+      "original_instruction_sha256": "7851a6c1e2af8e4b02ca3978cf2b666cdbabf0456a096b6f91538ca209e5f7b7",
+      "active_instruction_sha256": "25813ba7e7a5754504bffe99e4e8b1014e6c1cf09958720e9e9ac690d1be7b87",
+      "attachments": []
+    },
+    {
+      "skill": "planejador-das-postagens",
+      "name": "📊 O Planejador das Postagens",
+      "original_instruction_sha256": "ce2c66f0cb753ba036a38a45b1e278c36989e0c53e16d4d14ca579dcf3a4e287",
+      "active_instruction_sha256": "ac3db8ef644408f864a2968b68a04d669cc48c4007a4d6e1c6bd202dc8c39ad5",
+      "attachments": []
+    },
+    {
+      "skill": "provocadora-das-perguntas",
+      "name": "🔥 O Provocador das Perguntas",
+      "original_instruction_sha256": "b892f220cb666194170c82662a94a3c5786315e1ad2d532fc543b17735460a69",
+      "active_instruction_sha256": "f885d75a040bfc44d5fc16a277ab07b0c4f875149d37be28f8eccf04acca759b",
+      "attachments": []
+    },
+    {
+      "skill": "rainha-dos-titulos",
+      "name": "A Rainha dos Títulos",
+      "original_instruction_sha256": "853b53ab18d772d42f25734ebccc879612eb31c7f49a731b7622f92409db359b",
+      "active_instruction_sha256": "e8083d643d3eef768b839dc607d13010427effd1959754f1479472c76094bdd8",
+      "attachments": []
+    },
+    {
+      "skill": "raio-x-estrategico",
+      "name": "Raio-X Estratégico",
+      "original_instruction_sha256": "2b513ad82bea829e350167b965fd4fe9ece9bc01b6d068a4a90c1d9d49b89877",
+      "active_instruction_sha256": "246934036d580c2f2b53e7fa31013e452609e076aa0fedc242acaa9c2d8b33d9",
+      "attachments": []
+    },
+    {
+      "skill": "roteirista-viral-para-flow",
+      "name": "Roteirista Viral para FLOW",
+      "original_instruction_sha256": "35f4dc5f940e851f2d417754659617782dd86b608399c4b545cc19a4206ea2a2",
+      "active_instruction_sha256": "d20ce50fdc9020d06c8e103e6052d465c83e98f39ac420c7525a09566075d10e",
+      "attachments": []
+    },
+    {
+      "skill": "suporte-24-horas",
+      "name": "Suporte 24 horas Funcionários do Futuro",
+      "original_instruction_sha256": "413f1ca74896adcee6a17561197451c6d5720b711f79d6d6d73c8d6e000bd6a6",
+      "active_instruction_sha256": "102c2fc6c04b65de983aec14fe95304c14a445ed4c6037c23b6bbcd60f52174e",
+      "attachments": [
+        {
+          "original_name": "catalogo_agentes.txt",
+          "sha256": "2dc28ba2d57918c62721cdd473714bc05109158f0d9825c60420b9ad1e902c0a",
+          "path": "references/catalogo-agentes-2dc28ba2.txt",
+          "original_copy": "references/originais/catalogo-agentes-2dc28ba2.txt",
+          "consultation_sha256": "2dc28ba2d57918c62721cdd473714bc05109158f0d9825c60420b9ad1e902c0a",
+          "historical_only": false
+        },
+        {
+          "original_name": "fluxos_trabalho_recomendados.txt",
+          "sha256": "00e55430fadccdae11361f21bd5d2307273ed7f82e65557d4c12e293a6830860",
+          "path": "references/fluxos-trabalho-00e55430.txt",
+          "original_copy": "references/originais/fluxos-trabalho-00e55430.txt",
+          "consultation_sha256": "00e55430fadccdae11361f21bd5d2307273ed7f82e65557d4c12e293a6830860",
+          "historical_only": false
+        },
+        {
+          "original_name": "perguntas_frequentes_agente_suporte.txt",
+          "sha256": "08f7da81ca4a704d94dadbc46e933bf5b33644dc2971eb321d368546edb53ab6",
+          "path": "references/perguntas-freque-08f7da81.txt",
+          "original_copy": "references/originais/perguntas-freque-08f7da81.txt",
+          "consultation_sha256": "08f7da81ca4a704d94dadbc46e933bf5b33644dc2971eb321d368546edb53ab6",
+          "historical_only": false
+        }
+      ]
+    },
+    {
+      "skill": "vision",
+      "name": "V.I.S.I.O.N.",
+      "original_instruction_sha256": "3a7a9f6916aad7bf0253f2fb71ceba621da7dc7a237c13a74332d3685fd26816",
+      "active_instruction_sha256": "42bc59db5e7a2f494e5e895ac3812794570ff9b555013b52a4505b2189baa7ea",
+      "attachments": [
+        {
+          "original_name": "SORA MANUAL TÉCNICO AVANÇADO – V.I.S.I.O.N. Methodology & Implementation Guide",
+          "sha256": "edc6788d802b3d0515d7eea2b16574d4bc5d5082c2d7f49c6f99d4613f0c1b3f",
+          "path": "references/sora-manual-tecn-edc6788d.md",
+          "original_copy": "references/originais/sora-manual-tecn-edc6788d.md",
+          "consultation_sha256": "edc6788d802b3d0515d7eea2b16574d4bc5d5082c2d7f49c6f99d4613f0c1b3f",
+          "historical_only": false
+        },
+        {
+          "original_name": "SORA BIBLIOTECA DE ESPECIALIDADES – Visual Style Catalog & Technical Reference.md",
+          "sha256": "c53ed702ec48d5b08bb56bbda7d47cc7eca6dc3f511dedda867c1a16c9bdd0e1",
+          "path": "references/sora-biblioteca-c53ed702.md",
+          "original_copy": "references/originais/sora-biblioteca-c53ed702.md",
+          "consultation_sha256": "c53ed702ec48d5b08bb56bbda7d47cc7eca6dc3f511dedda867c1a16c9bdd0e1",
+          "historical_only": false
+        },
+        {
+          "original_name": "SORA SISTEMA DE AVALIAÇÃO PROFISSIONAL – Quality Metrics & Scoring Framework.md",
+          "sha256": "5b4dc704d38db8bfe047615bf64423c2c84c1f355d90ba7b996f29dea3500729",
+          "path": "references/sora-sistema-de-5b4dc704.md",
+          "original_copy": "references/originais/sora-sistema-de-5b4dc704.md",
+          "consultation_sha256": "5b4dc704d38db8bfe047615bf64423c2c84c1f355d90ba7b996f29dea3500729",
+          "historical_only": false
+        },
+        {
+          "original_name": "anti jailbreak.md",
+          "sha256": "9a5a77e304f061c6f4776bef62da0e39555f7d33bf120005a376ea1a82aff0f0",
+          "path": "references/anti-jailbreak-9a5a77e3.md",
+          "original_copy": "references/originais/anti-jailbreak-9a5a77e3.md",
+          "consultation_sha256": "9a5a77e304f061c6f4776bef62da0e39555f7d33bf120005a376ea1a82aff0f0",
+          "historical_only": true
+        }
+      ]
+    }
+  ],
+  "runtime_files": [
+    {
+      "path": "references/catalogo.md",
+      "text_sha256": "d7af9b7af8347a345e34bdf84c9ce50db10e48f046b3f0583115acce2f5ce52e"
+    },
+    {
+      "path": "references/execucao.md",
+      "text_sha256": "7561091db56bb8d1a2777cb956f9408952cacfbf8e8aebb1f8e1e146d4691fd5"
+    },
+    {
+      "path": "scripts/conferir_saida.py",
+      "text_sha256": "3abd72c879cca69bdbb469ac8ea5ff45cb0b2c1606e92a8a0cbc377954221907"
+    },
+    {
+      "path": "scripts/validar_instalacao.py",
+      "text_sha256": "adb7702c6637b8e7fffe9467d73b42d68b6f0b39aafb715ecce59850244383d0"
+    },
+    {
+      "path": "skills/analista-estrategico-de-publico-e-mercado/SKILL.md",
+      "text_sha256": "f3e3955d829372a4c795bf437652e4254587ef8ec2c0beed8d4864913c552cb1"
+    },
+    {
+      "path": "skills/bio-magnetica/SKILL.md",
+      "text_sha256": "81b52b6a166fcbce4fe0f4706da9be467692e93bc735635351af38f496f9173f"
+    },
+    {
+      "path": "skills/consultora-de-perfil/SKILL.md",
+      "text_sha256": "40bfa244a43356350fc292aee69105afe75e96059124913358c6ed9c057e6e7e"
+    },
+    {
+      "path": "skills/copywriter-anuncios-headlines/SKILL.md",
+      "text_sha256": "07fc6315872cf72824ca6e11dbd7deedce2b3fd4c2491ce8bba861e032043aca"
+    },
+    {
+      "path": "skills/copywriter-profissional/SKILL.md",
+      "text_sha256": "4363d0de18dc91de7ff80a5ea3dcef5944c8adf7d16ef557d91da7ec8791313d"
+    },
+    {
+      "path": "skills/criador-de-posts/SKILL.md",
+      "text_sha256": "c811cb762ffb57f81c12579d9d5aacc226d7a50abd287d921f62a73d89c74c42"
+    },
+    {
+      "path": "skills/designer-de-anuncios/SKILL.md",
+      "text_sha256": "2d21a30152721f6a7308f015e8135612183d76c4c61e79c7ef69f7a4de638c3c"
+    },
+    {
+      "path": "skills/designer-de-capas/SKILL.md",
+      "text_sha256": "e5220f3b0869bffeb266f90450256d6783b7a86b9cf00d3183d12041e3083f3e"
+    },
+    {
+      "path": "skills/designer-de-carrosseis/SKILL.md",
+      "text_sha256": "303ee3756a7bf57198a608a8aaf69cb3c4967dd8d6e4f22c432c4e8ecd823239"
+    },
+    {
+      "path": "skills/designer-de-produtos/SKILL.md",
+      "text_sha256": "f62eb753d26ccea2a15459c6e19b8141b6ee82dc345d617a048eabf15853ecf3"
+    },
+    {
+      "path": "skills/designer-de-quadrinhos-virais/SKILL.md",
+      "text_sha256": "855af98ebed548a61a391e68cbde413adaca6b3107d6a92f4bd2e22cf881bca4"
+    },
+    {
+      "path": "skills/designer-de-stories/SKILL.md",
+      "text_sha256": "e04001f306b2486a6ae3a7e0ad721ee402ec35a0915eaae473cec6650eee4df9"
+    },
+    {
+      "path": "skills/designer-do-feed/SKILL.md",
+      "text_sha256": "f219fe1c10fdb1562224fec51fb72d7771cef7b2879b3ab0a9411a05a8836324"
+    },
+    {
+      "path": "skills/designer-mestre/SKILL.md",
+      "text_sha256": "857cb3e5ca2aaa665984b8d8256a04ac06769825feba0916a7bffb56ace70d41"
+    },
+    {
+      "path": "skills/designer-recriador/SKILL.md",
+      "text_sha256": "eba431ff81232e368c42db0ec00757170d1ab4a97bf5a979331334bd1e3c94fa"
+    },
+    {
+      "path": "skills/eleven-prompter-pro/SKILL.md",
+      "text_sha256": "2647da677245aa9b9b9d2a9e91df05d79ef656d63fc2d4b938bdbed996ceb6e7"
+    },
+    {
+      "path": "skills/genio-dos-reels/SKILL.md",
+      "text_sha256": "78f9cde219f93923b8e38dbcba48c37c875132a762e360f2373141f3f48185e2"
+    },
+    {
+      "path": "skills/gerador-de-reels-em-massa/SKILL.md",
+      "text_sha256": "42b1eb5c002c48b639d7423591e8a9843936338d3fb89678ec30c7ea4dd14d36"
+    },
+    {
+      "path": "skills/hacker-dos-carrosseis/SKILL.md",
+      "text_sha256": "b8f3ccfa0a37f56e807b0ab6b4deff39363ce4fb3f17fe21806d1bbe766199b9"
+    },
+    {
+      "path": "skills/mestre-das-enquetes/SKILL.md",
+      "text_sha256": "d2c0075e2167e833d91b9ee5417deacfda18f95a05462ecdbc1994873945ade1"
+    },
+    {
+      "path": "skills/mestre-dos-clones/SKILL.md",
+      "text_sha256": "927f2f2c2dfcc78853dc2b49601665a3054cf72ee4d2b97f5310ce29c4fc134f"
+    },
+    {
+      "path": "skills/mestre-dos-prompts-para-video-em-json/SKILL.md",
+      "text_sha256": "2058b15435db8526721b0ac210b19fd55a5a7ceb956d0c8294be7ad4320b10ad"
+    },
+    {
+      "path": "skills/musa-das-legendas/SKILL.md",
+      "text_sha256": "45f0936b4b8332f37a679e6c2ed4f30ec9ba1baef12a7ea3df27b2b9e718dbb0"
+    },
+    {
+      "path": "skills/o-roteirista-dos-stories/SKILL.md",
+      "text_sha256": "5dd8d4de2610448ef529855c18163d6ee48295f5ce956b7a6e447e364db17ce9"
+    },
+    {
+      "path": "skills/planejador-das-postagens/SKILL.md",
+      "text_sha256": "36082453968d23497abefbe4af0e54a98da75de1968adad33bc491c7714fbd67"
+    },
+    {
+      "path": "skills/provocadora-das-perguntas/SKILL.md",
+      "text_sha256": "6a549cb351c9f600796ff6037bc07fd0857ae5174fe918fefe3700810a894ac6"
+    },
+    {
+      "path": "skills/rainha-dos-titulos/SKILL.md",
+      "text_sha256": "72853f5ffcf6d20b5533d46529778e6a2f76501bd6fa884a3ebd38b122102f6f"
+    },
+    {
+      "path": "skills/raio-x-estrategico/SKILL.md",
+      "text_sha256": "a9c1a4303c7001efea05e5826d0e6e9a32410ae6853b920b7ea541bd4571d643"
+    },
+    {
+      "path": "skills/roteirista-viral-para-flow/SKILL.md",
+      "text_sha256": "2d4ae7a106374ae159b9099c30eb58540fdff45f47fa29b2482075a02d60d3b9"
+    },
+    {
+      "path": "skills/suporte-24-horas/references/guia-atual.md",
+      "text_sha256": "0c01b61196b945adf25d89ac35a558180540a79133ecb8ef422b57b52f8f7159"
+    },
+    {
+      "path": "skills/suporte-24-horas/SKILL.md",
+      "text_sha256": "f7af02702e995fd3a460f6c72b58a4e9f691b2be4d6aee0d4379d12e93fbdfb4"
+    },
+    {
+      "path": "skills/vision/SKILL.md",
+      "text_sha256": "a39d205bf6777ad8f6fc88e061d611d9eba32037544d3fd7d7b67953ce929123"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 \# KB/lighting\_palettes.md  
-Guia prático de \*\*iluminação e paletas de cor\*\* para prompts do \*\*VEO3\*\* em formato \*\*vertical (9:16)\*\*, tomada única (one‑take), sem cortes e sem zoom. Textos prontos em \*\*inglês\*\* para colar no campo \`lighting\` e coerentes com descrições de \`style\`, \`environment\`, \`camera\` e \`motion\`.
+Guia prático de \*\*iluminação e paletas de cor\*\* para prompts do \*\*VEO3\*\* em formato \*\*vertical (16:9)\*\*, tomada única (one‑take), sem cortes e sem zoom. Textos prontos em \*\*inglês\*\* para colar no campo \`lighting\` e coerentes com descrições de \`style\`, \`environment\`, \`camera\` e \`motion\`.
 
 \---
 
 \#\# 1\) Fundamentos (aplicar em qualquer cena)  
-\- \*\*Vertical 9:16 \+ one‑take:\*\* luz deve sustentar a leitura do assunto durante \*\*até 8s\*\* sem saltos de exposição.  
+\- \*\*Vertical 16:9 \+ one‑take:\*\* luz deve sustentar a leitura do assunto durante \*\*até 8s\*\* sem saltos de exposição.  
 \- \*\*Key / Fill / Rim:\*\* descreva fontes e efeitos (ex.: \*golden sun key\*, \*sky fill\*, \*crisp rim\*).  
 \- \*\*Temperatura (K):\*\* sinalize intenção (quente/fria) sem depender de números, a não ser que queira travar mood.  
 \- \*\*Contraste e roll‑off:\*\* peça \*\*“balanced contrast”\*\* e \*\*“controlled highlight roll‑off”\*\* para evitar estouro em superfícies especulares.  

@@ -8,7 +8,7 @@ Guia de referência rápida do \*\*formato JSON\*\* para prompts do \*\*VEO3\*\*
 \- \*\*Narração (se houver):\*\* exatamente no \*\*idioma solicitado\*\* pela pessoa usuária.    
 \- \*\*Sem legendas / sem texto em tela:\*\* proibir explicitamente em \`negative\_prompts\`.    
 \- \*\*Duração:\*\* \*\*≤ 8 segundos\*\* (padrão: 8s).    
-\- \*\*Aspect ratio:\*\* \*\*vertical obrigatório\*\* → \`"aspect\_ratio": "9:16"\`.    
+\- \*\*Aspect ratio:\*\* \*\*vertical obrigatório\*\* → \`"aspect\_ratio": "16:9"\`.    
 \- \*\*Estilo de filmagem padrão:\*\* \*\*one‑take\*\*, \*\*no cuts\*\*, \*\*no zoom\*\*, \*\*fixed focal\*\*.    
 \- \*\*JSON estrito:\*\* sem comentários, chaves e strings entre aspas, sem vírgulas finais.
 
@@ -18,7 +18,7 @@ Guia de referência rápida do \*\*formato JSON\*\* para prompts do \*\*VEO3\*\*
 \*\*Obrigatórias (recomendadas na maioria dos casos):\*\*  
 \- \`mode\`: \`"text\_to\_video"\` ou \`"frame\_to\_video"\`.  
 \- \`name\`: título curto.  
-\- \`aspect\_ratio\`: sempre \`"9:16"\`.  
+\- \`aspect\_ratio\`: sempre \`"16:9"\`.  
 \- \`description\`: uma frase clara com a ação; \*\*sem on‑screen text\*\*.  
 \- \`camera\` \*\*ou\*\* \`camera\_setup\`: descreve \*\*um\*\* movimento contínuo de 8s.  
 \- \`timing\`: objeto com \`duration\_seconds\` (≤ 8\) e \`fps\` (ex.: 24).
@@ -57,7 +57,7 @@ Texto curto e objetivo.
 
 ### **3.3 `aspect_ratio`**
 
-"aspect\_ratio": "9:16"
+"aspect\_ratio": "16:9"
 
 ### **3.4 `description`**
 
@@ -158,7 +158,7 @@ Outros campos possíveis: `"product_packshot"`, `"logo_description"` (se necess�
 
 ## **4\) Regras de Validação**
 
-* `aspect_ratio` **obrigatoriamente** `"9:16"`.
+* `aspect_ratio` **obrigatoriamente** `"16:9"`.
 
 * `timing.duration_seconds` **≤ 8** (padrão: 8).
 
@@ -181,7 +181,7 @@ Outros campos possíveis: `"product_packshot"`, `"logo_description"` (se necess�
 {  
   "mode": "text\_to\_video",  
   "name": "Urban Mirror Reveal",  
-  "aspect\_ratio": "9:16",  
+  "aspect\_ratio": "16:9",  
   "style": "cinematic, ultra-realistic, fast",  
   "description": "A single-take vertical shot tracks a dynamic urban setup as a compact structure unfolds into a sleek mirror-clad form—clean, precise, and debris-free.",  
   "camera": "one continuous 8-second arc at mid-height; fixed focal length; no cuts; no zoom",  
@@ -200,7 +200,7 @@ Outros campos possíveis: `"product_packshot"`, `"logo_description"` (se necess�
   "constraints": { "single\_take": true, "no\_cuts": true, "no\_zoom": true, "fixed\_focal\_length\_mm": 35 },  
   "negative\_prompts": \["no text overlays", "no subtitles", "no shaky handheld", "no auto zoom"\],  
   "ending": "hero frame: mirror surface stabilized, reflections gliding cleanly",  
-  "keywords": \["8s one-take", "9:16", "urban", "mirror"\],  
+  "keywords": \["8s one-take", "16:9", "urban", "mirror"\],  
   "timing": { "duration\_seconds": 8, "fps": 24 }  
 }
 
@@ -209,7 +209,7 @@ Outros campos possíveis: `"product_packshot"`, `"logo_description"` (se necess�
 {  
   "mode": "frame\_to\_video",  
   "name": "Tech Studio Scan",  
-  "aspect\_ratio": "9:16",  
+  "aspect\_ratio": "16:9",  
   "reference\_assets": { "initial\_frame": "ATTACHED\_IMAGE\_0" },  
   "style": "CGI photoreal, clean studio",  
   "description": "From the attached frame, a precision scan passes across the object, assembling a refined vertical form in one continuous move.",  
@@ -245,7 +245,7 @@ Outros campos possíveis: `"product_packshot"`, `"logo_description"` (se necess�
 
 * Exceder **8s** de duração.
 
-* Omitir `"aspect_ratio": "9:16"`.
+* Omitir `"aspect_ratio": "16:9"`.
 
 * Misturar múltiplos movimentos de câmera contraditórios.
 
@@ -261,7 +261,7 @@ Outros campos possíveis: `"product_packshot"`, `"logo_description"` (se necess�
 
 1. Confirmar **inglês** no prompt (narration apenas se pedida, na língua solicitada).
 
-2. Verificar `aspect_ratio: "9:16"` e `duration_seconds ≤ 8`.
+2. Verificar `aspect_ratio: "16:9"` e `duration_seconds ≤ 8`.
 
 3. Garantir **one‑take**, **no cuts**, **no zoom**.
 

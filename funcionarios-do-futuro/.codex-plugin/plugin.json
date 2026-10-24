@@ -1,6 +1,6 @@
 {
   "name": "funcionarios-do-futuro",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Equipe de 31 especialistas de Ciro Rosa para conteúdo, design, copywriting, estratégia e prompts de vídeo.",
   "author": {
     "name": "Ciro Rosa"
@@ -13,6 +13,11 @@
     "video"
   ],
   "skills": "./skills/",
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/suporte-24-horas/SKILL.md"
+    }
+  },
   "interface": {
     "displayName": "Funcionários do Futuro",
     "shortDescription": "31 especialistas de conteúdo, design e estratégia.",

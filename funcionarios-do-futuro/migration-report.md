@@ -8,7 +8,7 @@ Escopo: 33 especialistas do Notion menos os agentes separados Sora e VEO 3, excl
 
 63 vínculos de anexos originais exportados diretamente dos GPTs e conferidos com manifesto SHA256. 0 vínculos adicionais provenientes de cópias locais correspondentes por nome. 0 vínculos de anexos originais continuam ausentes. A lista abaixo identifica as limitações por skill.
 
-Todos os anexos incluídos são originais exportados diretamente dos GPTs, sem substituição por cópias locais. DOCX foi mantido e também convertido para texto Markdown; PDFs foram preservados no formato original. O catálogo e os fluxos adaptados do suporte complementam os arquivos originais recuperados.
+Todos os anexos incluídos são originais exportados diretamente dos GPTs, sem substituição por cópias locais. DOCX e PDF foram mantidos e também convertidos para texto Markdown para consulta. O catálogo e os fluxos adaptados do suporte complementam os arquivos originais recuperados.
 
 A interface listava 64 entradas de anexos. Uma entrada repetida dentro de Copywriter foi deduplicada, resultando em 63 associações de arquivos aos GPTs. Há 59 conteúdos binários únicos, pois algumas bases são compartilhadas entre especialistas.
 
@@ -54,10 +54,38 @@ Nenhum. Todas as bases originais dos 31 GPTs do escopo estão incluídas.
 
 ## Ajustes
 
-- **copywriter-profissional**: Encaminhamento externo ao GPT Raio-X substituído pela skill local.
-- **mestre-dos-prompts-para-video-em-json**: Corrigida a razão vertical de 16:9 para 9:16; original preservado no backup.
+- **analista-estrategico-de-publico-e-mercado**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **bio-magnetica**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **consultora-de-perfil**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **copywriter-anuncios-headlines**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **copywriter-profissional**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **criador-de-posts**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-mestre**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-recriador**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-de-anuncios**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-de-capas**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-de-carrosseis**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-de-produtos**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-de-quadrinhos-virais**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-de-stories**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **designer-do-feed**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **eleven-prompter-pro**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **gerador-de-reels-em-massa**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **genio-dos-reels**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **hacker-dos-carrosseis**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **mestre-das-enquetes**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **mestre-dos-clones**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **mestre-dos-prompts-para-video-em-json**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **musa-das-legendas**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **o-roteirista-dos-stories**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **planejador-das-postagens**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **provocadora-das-perguntas**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **rainha-dos-titulos**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **raio-x-estrategico**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
+- **roteirista-viral-para-flow**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
 - **suporte-24-horas**: Instruções de execução revisadas para orientar alunos no Claude/Codex, usar skills locais, diagnosticar instalação e distinguir ferramentas externas; instruções originais preservadas.
 - **suporte-24-horas**: Catálogo e fluxos adaptados aos 31 especialistas do plugin; os arquivos originais de suporte também estão incluídos.
+- **vision**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
 
 ## Validação e limites
 

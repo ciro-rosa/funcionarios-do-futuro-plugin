@@ -1,5 +1,5 @@
 \# KB/negative\_prompts\_catalog.md  
-Catálogo de \*\*negative prompts\*\* para VEO3 — focado em \*\*vertical (9:16)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, \*\*≤ 8s\*\*. Todos os itens estão prontos em \*\*inglês\*\* para colagem direta no campo \`negative\_prompts\` do JSON. Use apenas o que fizer sentido para o caso.
+Catálogo de \*\*negative prompts\*\* para VEO3 — focado em \*\*vertical (16:9)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, \*\*≤ 8s\*\*. Todos os itens estão prontos em \*\*inglês\*\* para colagem direta no campo \`negative\_prompts\` do JSON. Use apenas o que fizer sentido para o caso.
 
 \---
 
@@ -134,7 +134,7 @@ Alinha o som a uma base limpa e sem cortes bruscos.
 
 ---
 
-## **7\) Verticalidade (9:16)**
+## **7\) Verticalidade (16:9)**
 
 Mantém consistência no formato.
 

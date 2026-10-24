@@ -1,5 +1,5 @@
 \# KB/audio\_sfx\_catalog.md  
-Catálogo de \*\*trilhas e SFX\*\* para prompts do \*\*VEO3\*\* em \*\*vertical (9:16)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, \*\*até 8s\*\*. Textos prontos em \*\*inglês\*\* para colar no campo \`audio\` do JSON.
+Catálogo de \*\*trilhas e SFX\*\* para prompts do \*\*VEO3\*\* em \*\*vertical (16:9)\*\*, \*\*one‑take\*\*, \*\*sem cortes\*\*, \*\*sem zoom\*\*, \*\*até 8s\*\*. Textos prontos em \*\*inglês\*\* para colar no campo \`audio\` do JSON.
 
 \---
 

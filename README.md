@@ -2,6 +2,8 @@
 
 Plugin de Ciro Rosa com 31 skills para conteúdo, design, copywriting, estratégia e prompts de vídeo.
 
+As instruções de execução foram revisadas para Claude e Codex. Os nomes, as instruções originais e as 63 bases originais permanecem preservados. [Veja o estudo e a cobertura dos testes](funcionarios-do-futuro/review-report.md).
+
 ## Claude e Cowork
 
 Em **Personalizar / Customize → Plugins → Adicionar → Adicionar marketplace**, escolha a opção de repositório e informe:
@@ -55,7 +57,31 @@ Pesquisa, geração de imagens, vídeos e áudio dependem das ferramentas dispon
 
 ## Atualizar
 
-No Claude Code, use `/plugin marketplace update funcionarios-do-futuro` e a opção de atualizar o plugin no painel Plugins. No Claude e no Codex, consulte as opções de atualização do marketplace instalado.
+No Claude Code, use `/plugin marketplace update funcionarios-do-futuro` e a opção de atualizar o plugin no painel Plugins. Pelo terminal:
+
+```shell
+claude plugin marketplace update funcionarios-do-futuro
+claude plugin update funcionarios-do-futuro@funcionarios-do-futuro
+```
+
+No terminal do Codex:
+
+```shell
+codex plugin marketplace upgrade funcionarios-do-futuro
+codex plugin add funcionarios-do-futuro@funcionarios-do-futuro
+```
+
+Reabra o aplicativo ou a conversa para carregar a revisão. O painel do Claude/Cowork pode oferecer seu próprio fluxo de atualização.
+
+## Conferir os arquivos
+
+O plugin inclui `knowledge-manifest.json` e o verificador opcional `scripts/validar_instalacao.py`. Se tiver Python, execute a partir da pasta do plugin:
+
+```shell
+python scripts/validar_instalacao.py
+```
+
+Ele confere os 31 especialistas, hashes das 63 bases, instruções, links e caminhos sem acessar a rede. Usar o plugin não exige Python; as ferramentas auxiliares são opcionais.
 
 ## Documentação das plataformas
 
