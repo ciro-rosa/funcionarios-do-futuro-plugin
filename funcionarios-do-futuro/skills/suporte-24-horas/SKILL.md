@@ -1,6 +1,6 @@
 ---
 name: suporte-24-horas
-description: "Use para Suporte 24 horas: Descubra qual agente usar para cada necessidade, receba recomendações personalizadas e fluxos de trabalho otimizados para suas tarefas de marketing digital."
+description: "Ajuda alunos a instalar, atualizar e usar o plugin Funcionários do Futuro no Claude e no Codex. Use para como começar, qual especialista ou skill usar, catálogo dos 31 agentes, fluxos de trabalho, erros de instalação como Filename too long, skill não aparece e dúvidas sobre bases e ferramentas. Recomenda a skill local adequada e executa a tarefa quando solicitado."
 ---
 
 # Suporte 24 horas Funcionários do Futuro

@@ -56,6 +56,7 @@ Nenhum. Todas as bases originais dos 31 GPTs do escopo estão incluídas.
 
 - **copywriter-profissional**: Encaminhamento externo ao GPT Raio-X substituído pela skill local.
 - **mestre-dos-prompts-para-video-em-json**: Corrigida a razão vertical de 16:9 para 9:16; original preservado no backup.
+- **suporte-24-horas**: Instruções de execução revisadas para orientar alunos no Claude/Codex, usar skills locais, diagnosticar instalação e distinguir ferramentas externas; instruções originais preservadas.
 - **suporte-24-horas**: Catálogo e fluxos adaptados aos 31 especialistas do plugin; os arquivos originais de suporte também estão incluídos.
 
 ## Validação e limites
