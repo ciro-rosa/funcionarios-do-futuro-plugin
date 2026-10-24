@@ -1,0 +1,22 @@
+{
+  "name": "funcionarios-do-futuro",
+  "owner": {
+    "name": "Ciro Rosa"
+  },
+  "interface": {
+    "displayName": "Funcionários do Futuro"
+  },
+  "plugins": [
+    {
+      "name": "funcionarios-do-futuro",
+      "source": {
+        "source": "local",
+        "path": "./funcionarios-do-futuro"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}

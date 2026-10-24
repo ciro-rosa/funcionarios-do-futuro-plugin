@@ -1,0 +1,267 @@
+TERMOS DE ENGENHARIA DE PROMPT - BASE DE CONHECIMENTO
+
+=== ESTRUTURA BÁSICA DO PROMPT ===
+
+ORDEM DE IMPORTÂNCIA:
+1. Sujeito principal (modelo de referência)
+2. Ação/pose/expressão
+3. Ambiente/cenário
+4. Iluminação
+5. Estilo/atmosfera
+6. Qualidade técnica
+7. Termos de refinamento
+
+FORMATO RECOMENDADO:
+[MODELO], [AÇÃO/POSE], [AMBIENTE], [ILUMINAÇÃO], [ESTILO], [QUALIDADE], [REFINAMENTOS]
+
+EXEMPLO DE ESTRUTURA:
+"[NOME_MODELO], sitting confidently in a modern office, natural window lighting, professional business style, ultra-realistic, 8K UHD, shot with Canon EOS R5"
+
+=== CONTROLE DE PESO E ÊNFASE ===
+
+SISTEMA DE PARÊNTESES:
+- (termo): ênfase leve (peso 1.1)
+- ((termo)): ênfase média (peso 1.21)
+- (((termo))): ênfase forte (peso 1.33)
+- (termo:1.2): ênfase específica (peso 1.2)
+- (termo:0.8): redução de peso (peso 0.8)
+
+SISTEMA DE COLCHETES:
+- [termo]: redução leve (peso 0.9)
+- [[termo]]: redução média (peso 0.81)
+- [[[termo]]]: redução forte (peso 0.73)
+
+EXEMPLOS PRÁTICOS:
+- ((ultra-realistic)): máxima ênfase no realismo
+- (cinematic lighting:1.3): iluminação cinematográfica enfatizada
+- [background:0.7]: fundo menos importante
+- (((photorealistic))): realismo extremamente enfatizado
+
+=== DESCRIÇÃO DE EMOÇÕES E EXPRESSÕES ===
+
+EXPRESSÕES FACIAIS BÁSICAS:
+- confident smile: sorriso confiante
+- subtle smirk: sorriso sutil/malicioso
+- intense gaze: olhar intenso
+- soft expression: expressão suave
+- determined look: olhar determinado
+- contemplative mood: humor contemplativo
+- joyful laughter: riso alegre
+- serious demeanor: comportamento sério
+- mysterious smile: sorriso misterioso
+- focused concentration: concentração focada
+
+LINGUAGEM CORPORAL:
+- relaxed posture: postura relaxada
+- confident stance: posição confiante
+- dynamic movement: movimento dinâmico
+- graceful gesture: gesto gracioso
+- powerful presence: presença poderosa
+- casual lean: inclinação casual
+- authoritative pose: pose autoritária
+- elegant positioning: posicionamento elegante
+- natural interaction: interação natural
+- commanding attention: comandando atenção
+
+ESTADOS EMOCIONAIS COMPLEXOS:
+- bittersweet nostalgia: nostalgia agridoce
+- quiet confidence: confiança silenciosa
+- playful mischief: travessura brincalhona
+- serene contentment: contentamento sereno
+- fierce determination: determinação feroz
+- gentle vulnerability: vulnerabilidade gentil
+- electric excitement: excitação elétrica
+- profound wisdom: sabedoria profunda
+
+=== DESCRIÇÃO DE AÇÕES E DINAMISMO ===
+
+AÇÕES ESTÁTICAS:
+- standing confidently: em pé com confiança
+- sitting elegantly: sentado elegantemente
+- leaning casually: inclinado casualmente
+- posing dramatically: posando dramaticamente
+- resting peacefully: descansando pacificamente
+- waiting patiently: esperando pacientemente
+- observing quietly: observando silenciosamente
+- thinking deeply: pensando profundamente
+
+AÇÕES DINÂMICAS:
+- walking purposefully: caminhando com propósito
+- running energetically: correndo energeticamente
+- dancing gracefully: dançando graciosamente
+- jumping joyfully: pulando alegremente
+- reaching upward: alcançando para cima
+- turning dramatically: virando dramaticamente
+- gesturing expressively: gesticulando expressivamente
+- moving fluidly: movendo-se fluidamente
+
+INTERAÇÕES COM OBJETOS:
+- holding delicately: segurando delicadamente
+- gripping firmly: agarrando firmemente
+- touching gently: tocando gentilmente
+- manipulating skillfully: manipulando habilmente
+- presenting proudly: apresentando orgulhosamente
+- examining closely: examinando de perto
+- operating expertly: operando com expertise
+- creating artistically: criando artisticamente
+
+=== ATMOSFERA E HUMOR ===
+
+ATMOSFERAS VISUAIS:
+- cinematic atmosphere: atmosfera cinematográfica
+- dreamy ambiance: ambiente sonhador
+- dramatic tension: tensão dramática
+- serene tranquility: tranquilidade serena
+- electric energy: energia elétrica
+- mysterious aura: aura misteriosa
+- romantic mood: humor romântico
+- powerful presence: presença poderosa
+- elegant sophistication: sofisticação elegante
+- raw authenticity: autenticidade crua
+
+QUALIDADES EMOCIONAIS:
+- warm and inviting: caloroso e convidativo
+- cool and distant: frio e distante
+- intense and passionate: intenso e apaixonado
+- calm and collected: calmo e controlado
+- vibrant and alive: vibrante e vivo
+- dark and moody: escuro e melancólico
+- bright and optimistic: brilhante e otimista
+- subtle and nuanced: sutil e nuançado
+
+=== TERMOS DE QUALIDADE PREMIUM ===
+
+QUALIDADE FOTOGRÁFICA:
+- masterpiece: obra-prima
+- award-winning photography: fotografia premiada
+- professional quality: qualidade profissional
+- gallery worthy: digno de galeria
+- museum quality: qualidade de museu
+- exhibition standard: padrão de exposição
+- commercial grade: grau comercial
+- editorial excellence: excelência editorial
+
+PLATAFORMAS E RECONHECIMENTO:
+- trending on ArtStation: em alta no ArtStation
+- featured on Behance: destaque no Behance
+- Vogue magazine quality: qualidade revista Vogue
+- National Geographic style: estilo National Geographic
+- Getty Images standard: padrão Getty Images
+- Magnum Photos worthy: digno da Magnum Photos
+
+ARTISTAS E FOTÓGRAFOS REFERÊNCIA:
+- by Annie Leibovitz: no estilo Annie Leibovitz
+- by Mario Testino: no estilo Mario Testino
+- by Steven Meisel: no estilo Steven Meisel
+- by Helmut Newton: no estilo Helmut Newton
+- by Richard Avedon: no estilo Richard Avedon
+- by Irving Penn: no estilo Irving Penn
+- by oprisco: no estilo oprisco
+- by rutkowski: no estilo rutkowski
+- by marat safin: no estilo marat safin
+
+=== EVITAR TERMOS CONFLITANTES ===
+
+CONFLITOS COMUNS:
+- "realistic" + "cartoon": realista vs desenho animado
+- "professional" + "amateur": profissional vs amador
+- "sharp" + "blurry": nítido vs desfocado
+- "bright" + "dark": brilhante vs escuro
+- "modern" + "vintage": moderno vs vintage
+- "minimalist" + "cluttered": minimalista vs bagunçado
+- "natural" + "artificial": natural vs artificial
+- "candid" + "posed": espontâneo vs posado
+
+SOLUÇÕES PARA CONFLITOS:
+- Use termos específicos: "soft natural lighting" em vez de "natural artificial"
+- Contextualize: "vintage-inspired modern design"
+- Priorize: escolha o termo mais importante
+- Combine harmoniosamente: "professionally candid"
+
+=== TÉCNICAS AVANÇADAS ===
+
+PROMPT BLENDING:
+- Use vírgulas para separar conceitos
+- Use "and" para conectar elementos relacionados
+- Use "with" para adicionar detalhes
+- Use "in the style of" para referências artísticas
+
+NEGATIVE PROMPTS (O QUE EVITAR):
+- low quality, blurry, pixelated
+- amateur, unprofessional, snapshot
+- distorted, deformed, ugly
+- overexposed, underexposed, poor lighting
+- generic, boring, cliché
+- artificial, fake, unrealistic
+- cluttered, messy, chaotic
+- low resolution, compressed, artifacts
+
+PROMPT PROGRESSION:
+1. Conceito básico: sujeito + ação
+2. Adicionar contexto: ambiente + iluminação
+3. Refinar estilo: atmosfera + referências
+4. Otimizar qualidade: termos técnicos + artistas
+5. Ajustar peso: parênteses e colchetes
+
+=== FÓRMULAS TESTADAS ===
+
+FÓRMULA RETRATO PROFISSIONAL:
+"[MODELO], [EXPRESSÃO], [POSE], professional headshot, studio lighting, neutral background, ultra-realistic, 8K UHD, shot with Canon EOS R5, 85mm lens, shallow depth of field, masterpiece"
+
+FÓRMULA FASHION EDITORIAL:
+"[MODELO], [POSE DRAMÁTICA], [ROUPA DESIGNER], editorial fashion photography, dramatic lighting, minimalist background, ultra-realistic, 8K UHD, shot with Hasselblad X2D, by Mario Testino, Vogue magazine quality"
+
+FÓRMULA LIFESTYLE NATURAL:
+"[MODELO], [AÇÃO NATURAL], [AMBIENTE COTIDIANO], natural lighting, candid moment, authentic atmosphere, ultra-realistic, 8K UHD, shot with Leica SL2, 50mm lens, by Annie Leibovitz"
+
+FÓRMULA CINEMATOGRÁFICA:
+"[MODELO], [AÇÃO DRAMÁTICA], [CENÁRIO ÉPICO], cinematic lighting, dramatic atmosphere, movie still quality, ultra-realistic, 8K UHD, shot with ARRI Alexa LF, anamorphic lens, by Roger Deakins"
+
+=== OTIMIZAÇÃO POR PLATAFORMA ===
+
+KREA AI:
+- Priorize descrições detalhadas e naturais
+- Use referências artísticas específicas
+- Enfatize qualidade técnica
+- Inclua termos de atmosfera
+
+FREEPIK (FLUX):
+- Use linguagem descritiva clara
+- Inclua termos de estilo específicos
+- Priorize realismo e qualidade
+- Adicione referências de fotógrafos
+
+MIDJOURNEY:
+- Use formato conciso mas descritivo
+- Inclua parâmetros de qualidade
+- Use referências artísticas
+- Evite prompts muito longos
+
+STABLE DIFFUSION:
+- Use prompts detalhados
+- Inclua negative prompts
+- Use sistema de pesos
+- Adicione termos técnicos específicos
+
+=== CHECKLIST DE QUALIDADE ===
+
+ANTES DE FINALIZAR O PROMPT:
+□ Modelo de referência incluído
+□ Ação/pose definida
+□ Ambiente descrito
+□ Iluminação especificada
+□ Estilo/atmosfera definido
+□ Qualidade técnica incluída
+□ Termos conflitantes removidos
+□ Peso adequado aplicado
+□ Referências artísticas adicionadas
+□ Prompt testado mentalmente
+
+SINAIS DE PROMPT OTIMIZADO:
+- Flui naturalmente quando lido
+- Cada termo adiciona valor
+- Não há redundâncias
+- Estilo é consistente
+- Qualidade é enfatizada
+- Referências são relevantes
+

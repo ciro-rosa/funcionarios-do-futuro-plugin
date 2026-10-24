@@ -1,0 +1,23 @@
+| **ÂNGULOS** | **Exemplo** | **Explicação** |
+| --- | --- | --- |
+| **Problema** | "Você está cansado de [Problema]?" | Introduz um problema que o público-alvo está enfrentando, incentivando-os a parar e prestar atenção. |
+| **Solução** | "Descubra como resolver [Problema]" | Oferece uma solução clara para um problema específico, atraindo aqueles que procuram uma resposta rápida. |
+| **Promessa** | "Emagreça sem dieta em 7 dias" | Faz uma promessa forte e atraente que desperta o interesse imediato e o desejo de saber mais. |
+| **Curiosidade** | "O segredo que ninguém te contou sobre [Assunto]" | Gera curiosidade ao sugerir que há informações valiosas e pouco conhecidas que o leitor pode descobrir. |
+| **História** | "Como [Nome] transformou sua vida em apenas 30 dias" | Usa uma narrativa pessoal ou de um cliente para criar uma conexão emocional e credibilidade. |
+| **Questionamento** | "Você sabe por que [Fato] acontece?" | Usa uma pergunta para envolver o leitor, fazendo-o refletir sobre algo que ele pode não saber. |
+| **Estatística/Factoide** | "90% das pessoas falham em [Tarefa]" | Apresenta um dado ou fato impactante que chama a atenção e incentiva a busca por mais informações. |
+| **Benefício** | "Aproveite [Benefício] agora mesmo" | Foca diretamente no benefício que o leitor obterá, apelando para seu desejo imediato. |
+| **Testemunho** | "Veja como [Cliente] mudou sua vida com [Produto]" | Usa a prova social através de depoimentos para construir confiança e demonstrar resultados reais. |
+| **Pergunta Retórica** | "Quem mais quer [Benefício] sem [Problema]?" | Usa uma pergunta que pressupõe uma resposta positiva, reforçando o desejo pelo benefício apresentado. |
+| **Choque/Alarme** | "Alerta: Você pode estar fazendo [Erro]" | Usa um tom alarmista para capturar a atenção, fazendo com que o leitor queira evitar um erro ou problema. |
+| **Comparação** | "Por que [Produto A] é melhor que [Produto B]" | Faz uma comparação direta para destacar a superioridade do produto ou serviço em relação aos concorrentes. |
+| **Oferta Irresistível** | "Aproveite [Desconto/Oferta] antes que acabe" | Cria urgência e desejo imediato com uma oferta que parece imperdível e com prazo limitado. |
+| **Mecanismo** | "A tecnologia revolucionária por trás de [Produto]" | Destaca um mecanismo ou tecnologia única que diferencia o produto de outros no mercado. |
+| **Proclamação** | "Finalmente! A solução definitiva para [Problema]" | Faz uma proclamação ousada e enfática que promete resolver um problema de forma definitiva. |
+| **Intriga** | "O mistério por trás de [Assunto]" | Cria uma atmosfera de intriga e mistério, incentivando o leitor a continuar para descobrir a verdade. |
+| **Tutorial** | "Como fazer [Tarefa] em 5 passos simples" | Oferece um guia prático e fácil de seguir, atraindo leitores que buscam soluções práticas e rápidas. |
+| **Gratificação Instantânea** | "Obtenha [Benefício] em minutos" | Promete uma recompensa rápida e imediata, atraindo aqueles que querem resultados rápidos sem esperar muito. |
+| **Segmentação** | "Especialmente para [Grupo Específico]" | Direciona a mensagem para um público-alvo específico, fazendo com que o leitor se sinta especialmente atendido. |
+| **Aviso/Declaração** | "Importante: [Notícia Impactante]" | Usa um aviso ou declaração importante para chamar a atenção e informar o leitor sobre algo crucial. |
+| **Paradoxo** | "Como gastar menos e ganhar mais com [Assunto]" | Apresenta um paradoxo que desafia a lógica comum, despertando curiosidade e interesse no leitor. |

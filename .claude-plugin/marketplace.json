@@ -1,0 +1,17 @@
+{
+  "name": "funcionarios-do-futuro",
+  "owner": {
+    "name": "Ciro Rosa"
+  },
+  "metadata": {
+    "description": "Especialistas dos Funcionários do Futuro para conteúdo, design e estratégia."
+  },
+  "plugins": [
+    {
+      "name": "funcionarios-do-futuro",
+      "source": "./funcionarios-do-futuro",
+      "description": "Equipe de 31 especialistas de Ciro Rosa para conteúdo, design, copywriting, estratégia e prompts de vídeo.",
+      "version": "1.1.0"
+    }
+  ]
+}

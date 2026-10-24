@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "funcionarios-do-futuro",
+  "version": "1.1.0",
+  "description": "Equipe de 31 especialistas de Ciro Rosa para conteúdo, design, copywriting, estratégia e prompts de vídeo.",
+  "author": {
+    "name": "Ciro Rosa"
+  },
+  "keywords": [
+    "instagram",
+    "marketing",
+    "copywriting",
+    "design",
+    "video"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Funcionários do Futuro",
+        "shortDescription": "31 especialistas de conteúdo, design e estratégia.",
+        "longDescription": "Equipe de 31 especialistas de Ciro Rosa para conteúdo, design, copywriting, estratégia e prompts de vídeo.",
+        "developerName": "Ciro Rosa",
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Me ajude a escolher o especialista para minha tarefa.",
+          "Crie meu Raio-X Estratégico para produzir conteúdo."
+        ]
+      }
+    }
+  },
+  "repository": "https://github.com/ciro-rosa/funcionarios-do-futuro-plugin"
+}

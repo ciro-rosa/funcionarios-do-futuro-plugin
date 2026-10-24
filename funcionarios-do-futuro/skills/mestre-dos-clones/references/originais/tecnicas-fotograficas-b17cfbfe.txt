@@ -1,0 +1,152 @@
+TÉCNICAS FOTOGRÁFICAS - BASE DE CONHECIMENTO
+
+=== TIPOS DE ILUMINAÇÃO ===
+
+ILUMINAÇÃO NATURAL:
+- golden hour lighting: luz dourada do nascer/pôr do sol, quente e suave
+- blue hour lighting: luz azulada do crepúsculo, atmosfera mística
+- natural diffused light: luz natural suave e uniforme
+- harsh sunlight: luz solar direta e intensa, sombras marcadas
+- overcast lighting: luz difusa de dia nublado, sem sombras duras
+- window light: luz natural vinda de janela, suave e direcional
+- backlighting: contraluz, silhuetas e halos luminosos
+- rim lighting: luz de contorno, destaca bordas do sujeito
+
+ILUMINAÇÃO ARTIFICIAL:
+- studio flash: flash de estúdio, luz controlada e uniforme
+- continuous lighting: iluminação contínua, permite ver resultado em tempo real
+- tungsten lighting: luz quente amarelada, atmosfera aconchegante
+- LED panel lighting: painéis LED, luz fria e controlável
+- neon lighting: luzes de neon, cores vibrantes e atmosfera urbana
+- practical lighting: iluminação de cena (lâmpadas, velas, telas)
+
+TÉCNICAS DE ILUMINAÇÃO:
+- Rembrandt lighting: triângulo de luz na bochecha sombreada
+- butterfly lighting: sombra em forma de borboleta sob o nariz
+- split lighting: metade do rosto iluminada, metade na sombra
+- loop lighting: pequena sombra do nariz em forma de loop
+- broad lighting: lado mais largo do rosto iluminado
+- short lighting: lado mais estreito do rosto iluminado
+- chiaroscuro: contraste dramático entre luz e sombra
+- high key lighting: iluminação clara e uniforme, poucas sombras
+- low key lighting: iluminação escura e dramática, muitas sombras
+- volumetric lighting: raios de luz visíveis através de partículas
+
+=== TIPOS DE LENTES E EFEITOS ===
+
+LENTES GRANDE ANGULAR (14-35mm):
+- 14mm: distorção extrema, perspectiva dramática
+- 24mm: campo de visão amplo, ideal para paisagens
+- 35mm: perspectiva natural, versatilidade
+
+LENTES NORMAIS (40-60mm):
+- 50mm: perspectiva próxima ao olho humano, natural
+- 55mm: ligeiramente comprimida, retratos naturais
+
+LENTES TELEOBJETIVA (70-200mm+):
+- 85mm: ideal para retratos, compressão suave
+- 105mm: retratos com isolamento do fundo
+- 135mm: compressão acentuada, bokeh cremoso
+- 200mm: isolamento extremo, compressão de planos
+
+LENTES ESPECIAIS:
+- macro lens: detalhes extremos, ampliação 1:1 ou maior
+- fisheye lens: distorção circular extrema
+- tilt-shift lens: controle de perspectiva e foco seletivo
+- anamorphic lens: formato cinematográfico, bokeh oval
+
+EFEITOS DE LENTE:
+- shallow depth of field: foco seletivo, fundo desfocado
+- deep depth of field: tudo em foco, nitidez geral
+- bokeh: qualidade do desfoque, círculos suaves
+- lens flare: reflexos da lente, efeito dramático
+- vignetting: escurecimento nas bordas da imagem
+- chromatic aberration: franjas coloridas nas bordas
+
+=== COMPOSIÇÃO FOTOGRÁFICA ===
+
+REGRAS DE COMPOSIÇÃO:
+- rule of thirds: divisão em terços, pontos de interesse
+- golden ratio: proporção áurea, harmonia visual
+- symmetry: simetria perfeita, equilíbrio formal
+- asymmetry: assimetria intencional, dinamismo
+- leading lines: linhas que guiam o olhar
+- framing: uso de elementos para enquadrar o sujeito
+- negative space: espaço vazio como elemento compositivo
+- patterns and repetition: padrões e repetições visuais
+- contrast: contraste de cores, texturas ou formas
+
+TIPOS DE PLANOS:
+- extreme wide shot: plano geral extremo, contexto amplo
+- wide shot: plano geral, sujeito no ambiente
+- medium wide shot: plano médio aberto
+- medium shot: plano médio, da cintura para cima
+- medium close-up: plano médio fechado, do peito para cima
+- close-up: primeiro plano, rosto completo
+- extreme close-up: primeiríssimo plano, detalhes faciais
+- detail shot: plano detalhe, partes específicas
+
+ÂNGULOS DE CÂMERA:
+- eye-level shot: altura dos olhos, perspectiva natural
+- high angle: ângulo alto, câmera acima do sujeito
+- low angle: ângulo baixo, câmera abaixo do sujeito
+- bird's eye view: vista aérea, perspectiva de cima
+- worm's eye view: perspectiva de baixo para cima
+- dutch angle: ângulo holandês, inclinação diagonal
+- over-the-shoulder: por cima do ombro
+- point of view: ponto de vista do personagem
+
+=== QUALIDADE E CARACTERÍSTICAS TÉCNICAS ===
+
+RESOLUÇÃO E NITIDEZ:
+- 8K UHD: ultra alta definição, máxima qualidade
+- 4K resolution: alta definição, detalhes nítidos
+- crisp details: detalhes nítidos e definidos
+- tack sharp: nitidez absoluta
+- soft focus: foco suave, atmosfera romântica
+- motion blur: desfoque de movimento, dinamismo
+
+CARACTERÍSTICAS DE IMAGEM:
+- high-fidelity: alta fidelidade, reprodução precisa
+- photorealistic: fotorrealismo, indistinguível da realidade
+- hyper-realistic: hiper-realismo, detalhes intensificados
+- ultra-realistic: ultra-realismo, máximo realismo
+- visible pores: poros visíveis, textura de pele real
+- realistic fabric folds: dobras de tecido realistas
+- high-resolution skin texture: textura de pele em alta resolução
+- realistic lighting: iluminação realista e natural
+
+ESTILOS DE PROCESSAMENTO:
+- RAW film style: estilo de filme não processado
+- soft film grain: grão de filme suave
+- vintage film look: aparência de filme vintage
+- digital clean: limpeza digital, sem ruído
+- HDR processing: alto alcance dinâmico
+- color grading: correção e estilização de cores
+- black and white: preto e branco, monocromático
+- sepia tone: tom sépia, nostalgia
+
+=== EQUIPAMENTOS E MARCAS ===
+
+CÂMERAS PROFISSIONAIS:
+- Canon EOS R5: mirrorless full-frame, alta resolução
+- Sony A7R V: mirrorless, sensor de alta resolução
+- Nikon Z9: mirrorless profissional, velocidade
+- Fujifilm GFX100S: médio formato, qualidade extrema
+- Leica SL2: premium, qualidade óptica superior
+- Phase One XF: médio formato profissional
+- Hasselblad X2D: médio formato, cores excepcionais
+
+CÂMERAS CINEMATOGRÁFICAS:
+- ARRI Alexa LF: cinema profissional, large format
+- RED Komodo: 6K cinema, compacta
+- Blackmagic URSA: cinema acessível, qualidade profissional
+- Sony FX9: cinema full-frame, versatilidade
+
+LENTES PREMIUM:
+- Zeiss Master Prime: cinema, qualidade óptica superior
+- Leica Summilux: abertura ampla, bokeh excepcional
+- Canon L Series: profissional, construção robusta
+- Sony G Master: alta performance, nitidez extrema
+- Sigma Art: qualidade premium, preço acessível
+

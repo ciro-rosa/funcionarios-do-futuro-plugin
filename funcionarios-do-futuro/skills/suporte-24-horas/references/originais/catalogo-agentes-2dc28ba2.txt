@@ -1,0 +1,223 @@
+**CATÁLOGO COMPLETO DE AGENTES - FUNCIONÁRIOS DO FUTURO**
+
+Este documento contém informações detalhadas sobre todos os agentes disponíveis no pacote "FUNCIONÁRIOS DO FUTURO", organizados por departamento.
+
+---
+
+## DEPARTAMENTO DE DESIGN
+
+### Designer de Anúncios 🎯
+- **Função:** Cria anúncios para tráfego pago ou redes sociais com imagens e textos prontos.
+- **Ideal para:** Campanhas de tráfego pago, anúncios em redes sociais, aumentar conversões.
+- **Características:** Permite escolher estilos, ajustar mensagens e aumentar conversões em minutos.
+- **Link:** https://chatgpt.com/g/g-6823e072ea388191baa8bc169ba78920-designer-de-anuncios-2-0
+- **Vídeo:** https://youtu.be/7YDwdAAEf-w?si=DkvJAm6YVOC92GqB
+
+### Designer de Capas 🖌️
+- **Função:** Cria capas impactantes para vídeos, reels e thumbnails.
+- **Ideal para:** Aumentar cliques em vídeos, criar thumbnails atraentes, melhorar CTR.
+- **Características:** Sugere títulos, contextos e prompts para imagens que geram cliques.
+- **Link:** https://chatgpt.com/g/g-6813fe7931a081919866d794b4061d96-designer-de-capas
+- **Vídeo:** https://youtu.be/IcWVMfJs5oY
+
+### Designer de Carrosséis 📑
+- **Função:** Gera carrosséis com copy slide a slide, estrutura lógica e revisão automática.
+- **Ideal para:** Posts educativos, conteúdo promocional em formato carrossel.
+- **Características:** Estrutura lógica, progressão de ideias, contraste e intenção de venda.
+- **Link:** https://chatgpt.com/g/g-682505e3b0cc81919f3d6c6a273005e7-designer-de-carrosseis-2-0
+- **Vídeo:** https://youtu.be/-HwhxudoN5s
+
+### Designer de Produtos 🛍️
+- **Função:** Transforma fotos simples em imagens de alto valor visual para produtos.
+- **Ideal para:** E-commerce, catálogos de produtos, apresentação profissional de produtos.
+- **Características:** Inclui humanos, cenários premium e mantém fidelidade ao produto.
+- **Link:** https://chatgpt.com/g/g-6823de0c43ec8191b132b15ea9ae916b-designer-de-produtos-2-0
+- **Vídeo:** https://youtu.be/1fpLjF2mZ2g
+
+### Designer de Stories 📱
+- **Função:** Cria stories verticais com contraste, CTAs e estética profissional.
+- **Ideal para:** Conteúdo para Instagram/Facebook Stories, conteúdo vertical para redes sociais.
+- **Características:** Gera séries otimizadas em poucos cliques, com contraste e clareza.
+- **Link:** https://chatgpt.com/g/g-6813f602c6e08191ab229a241cfc7260-designer-de-stories
+- **Vídeo:** https://youtu.be/n8tOCOGLuKs
+
+### Designer do Feed 🗞️
+- **Função:** Transforma textos em imagens impactantes para feed.
+- **Ideal para:** Posts de feed do Instagram, conteúdo visual para redes sociais.
+- **Características:** Permite escolher estilos e criar posts consistentes com clareza visual.
+- **Link:** https://chatgpt.com/g/g-67f30cf038b48191958145f6a9bcf838-designer-do-futuro
+- **Vídeo:** https://youtu.be/pLA2hnmsvi4
+
+### Designer Recriador 🔨
+- **Função:** Recria artes que não funcionaram bem, identificando falhas e gerando novas versões.
+- **Ideal para:** Otimizar peças existentes, melhorar designs que não performaram bem.
+- **Características:** Identifica falhas e gera novas versões otimizadas com mais impacto.
+- **Link:** https://chatgpt.com/g/g-6814ea2aa7d88191a6b2776eb09ac223-designer-recriador
+- **Vídeo:** https://youtu.be/v3G_P_O2oE8
+
+### Designer Mestre 🧙‍♂️
+- **Função:** Transforma frases em prompts prontos para IA visual.
+- **Ideal para:** Criação de imagens com IA, logotipos, posts com estética profissional.
+- **Características:** Foco em estética, hierarquia clara e copy original.
+- **Link:** https://chatgpt.com/g/g-6813e81329748191901a71c6e37939fb-designer-mestre
+- **Vídeo:** Indisponível no momento.
+
+### Designer de Quadrinhos Virais 💬
+- **Função:** Cria roteiros de quadrinhos curtos com personagens expressivos e CTA forte.
+- **Ideal para:** Conteúdo viral em formato de quadrinhos, storytelling visual, figurinhas.
+- **Características:** Ideal para carrosséis, posts únicos ou figurinhas.
+- **Link:** https://chatgpt.com/g/g-6834eb6c936c8191a775f2adca23b7b7-quadrinhos-virais
+- **Vídeo:** https://youtu.be/A_Crk4O5gPc
+
+### V.I.S.I.O.N 🤖🎥
+- **Função:** Gera prompts cinematográficos para IA visual e vídeo.
+- **Ideal para:** Campanhas visuais, conteúdo com estética cinematográfica.
+- **Características:** Cria descrições visuais com precisão técnica e linguagem cinematográfica.
+- **Link:** https://chatgpt.com/g/g-6854a4e0017081918c4cff76fef06722-v-i-s-i-o-n
+- **Vídeo:** https://youtu.be/BQJicyyjG90
+
+### Mestre dos Clones 🧙‍♂️✨
+- **Função:** Cria imagens ultrarrealistas com clones de referência.
+- **Ideal para:** Fotos profissionais com modelos, conteúdo personalizado com pessoas.
+- **Características:** Estiliza ambiente, pose e cenário com realismo cinematográfico.
+- **Link:** https://chatgpt.com/g/g-6863202fe69481918624b84f5c7eba05-mestre-dos-clones
+- **Vídeo:** https://youtu.be/bPlEn0E8hPI
+
+---
+
+## AGENTES DE VÍDEO
+
+### Mestre dos Prompts para Sora
+- **Função:** Cria prompts detalhados para gerar vídeos cinematográficos no Sora.
+- **Ideal para:** Anúncios em vídeo, conteúdo criativo em vídeo sem narração.
+- **Características:** Foco em vídeos cinematográficos e criativos.
+- **Link:** https://chatgpt.com/g/g-6847656b5d5c8191bdd2aba5f3eab5b0-mestre-dos-prompts-de-video-sem-voz-v1-0
+- **Vídeo:** https://www.youtube.com/watch?v=T4jsFgO5N2s
+
+### Mestre dos Prompts para VEO 3
+- **Função:** Cria vídeos com narração, personagens e roteiro completo.
+- **Ideal para:** Vídeos falados com impacto, conteúdo educativo em vídeo.
+- **Características:** Ideal para vídeos com narração e personagens.
+- **Link:** https://chatgpt.com/g/g-68476a17e64c8191a898b0fe4a55f1e2-mestre-dos-prompts-de-video-com-voz
+- **Vídeo:** https://www.youtube.com/watch?v=GxucMHT3ucA
+
+### Gerador de Reels em Massa 🎥
+- **Função:** Multiplica uma ideia em dezenas de variações de Reels.
+- **Ideal para:** Produção em escala de conteúdo para Reels, ideias virais para vídeos curtos.
+- **Características:** Gera roteiros, ganchos e chamadas para viralizar.
+- **Link:** https://chatgpt.com/g/g-684cd7d3c020819188eab34b4a2dacf8-gerador-de-reels-em-massa
+- **Vídeo:** https://youtu.be/K8avYFCphy8
+
+---
+
+## DEPARTAMENTO DE ESCRITORES
+
+### Copywriter Profissional ✍️
+- **Função:** Gera textos persuasivos com técnicas PAS e BAB.
+- **Ideal para:** Textos de vendas para Instagram, copy persuasiva.
+- **Características:** Foco em vendas rápidas no Instagram, textos diretos e persuasivos.
+- **Link:** https://chatgpt.com/g/g-67f9e8431de081918a8f34ea0c1f2759-gpt-copywriter-profissional-copy-para-vendas
+- **Vídeo:** https://youtu.be/u956UFfrWXY
+
+### Gênio dos Reels 🎬
+- **Função:** Cria roteiros curtos com ganchos poderosos para Reels.
+- **Ideal para:** Roteiros de Reels, conteúdo com alta retenção.
+- **Características:** Aumenta alcance e autoridade com storytelling estratégico.
+- **Link:** https://chatgpt.com/g/g-67a691cb509c8191a23e6213c2c88ea2-o-genio-dos-reels
+- **Vídeo:** https://youtu.be/sMEYz2hIEhE
+
+### Hacker dos Carrosséis 🌀
+- **Função:** Cria carrosséis com storytelling, copy e visual de alta performance.
+- **Ideal para:** Conteúdo em carrossel, posts educativos sequenciais.
+- **Características:** Ajuda a gerar engajamento e autoridade.
+- **Link:** https://chatgpt.com/g/g-679adf83eddc8191926e73d1045f3ddc-o-hacker-dos-carrosseis
+- **Vídeo:** https://youtu.be/nA3iZy7jC6g
+
+### O Roteirista dos Stories 🎬
+- **Função:** Transforma ideias soltas em roteiros completos de stories.
+- **Ideal para:** Sequências de stories, narrativas para stories.
+- **Características:** Cria roteiros com começo, meio, fim e chamada para ação.
+- **Link:** https://chatgpt.com/g/g-67a03ce5940c8191b1d577e1fec6d011-o-roteirista-dos-stories
+- **Vídeo:** https://youtu.be/5wt2Si917Zo
+
+### Musa das Legendas ✍️
+- **Função:** Gera legendas com copy de vendas, CTAs e hashtags otimizadas.
+- **Ideal para:** Legendas para posts, reels e carrosséis.
+- **Características:** Foco em intenção de venda, linguagem direta e chamadas para ação.
+- **Link:** https://chatgpt.com/g/g-67b7c86abfdc8191b535ee63a77b7f8f-a-musa-das-legendas
+- **Vídeo:** https://youtu.be/9icWSfFeOoA
+
+### Rainha dos Títulos 👑
+- **Função:** Cria títulos poderosos para posts, reels e vídeos.
+- **Ideal para:** Headlines, títulos de vídeos, títulos de carrosséis.
+- **Características:** Foco em cliques e curiosidade.
+- **Link:** https://chatgpt.com/g/g-67e4a20a452081919128d611bd5a70dc-a-rainha-dos-titulos
+- **Vídeo:** https://youtu.be/bD1xRSDCGLo
+
+### Criador de Posts ✍️
+- **Função:** Gera posts curtos, persuasivos e prontos para engajar e vender.
+- **Ideal para:** Conteúdo textual para Instagram, posts persuasivos.
+- **Características:** Textos curtos, impactantes e persuasivos para Instagram.
+- **Link:** https://chatgpt.com/g/g-67f305fdb9cc819188f8963cf9aab107-o-criador-de-posts-que-vendem
+- **Vídeo:** Indisponível
+
+### Copywriter Anúncios & Headlines 🏷️
+- **Função:** Cria anúncios e headlines de alta conversão.
+- **Ideal para:** Textos para anúncios pagos, headlines impactantes.
+- **Características:** Gera 3 variações: direta, emocional e desafiadora.
+- **Link:** https://chatgpt.com/g/g-682508bbb79c81919854b92b17e3b0fb-copyriter-anuncios-headlines-2-0
+- **Vídeo:** Indisponível
+
+---
+
+## DEPARTAMENTO DE ESTRATÉGIA
+
+### Raio-X Estratégico 🔎
+- **Função:** Analisa seu negócio e entrega um briefing completo.
+- **Ideal para:** Diagnóstico de negócio, planejamento estratégico inicial.
+- **Características:** É essencial começar por este agente para entender o negócio e acelerar as criações.
+- **Link:** https://chatgpt.com/g/g-67e4ab103ef4819198381ca5749b9c04-raio-x-estrategico
+- **Vídeo:** https://youtu.be/dpxfJXDWRi0
+
+### Analista Estratégico de Público e Mercado 🔬
+- **Função:** Estuda seu público, concorrência e posicionamento.
+- **Ideal para:** Pesquisa de mercado, análise de público-alvo.
+- **Características:** Gera briefing para copy e campanhas.
+- **Link:** https://chatgpt.com/g/g-68250c31b22c8191b07dea3fc8b6fd42-analista-estrategico-de-publico-e-mercado
+- **Vídeo:** Indisponível
+
+### Consultora de Perfil ⭐
+- **Função:** Analisa e otimiza seu perfil do Instagram para vendas.
+- **Ideal para:** Auditoria de perfil, otimização de bio e feed.
+- **Características:** Gera diagnóstico com ajustes e sugestões práticas.
+- **Link:** https://chatgpt.com/g/g-67e4a2eccfb88191874d89c4a5ffc4dd-o-consultor-de-perfil
+- **Vídeo:** https://youtu.be/r21-6OGykWc
+
+### Bio Magnética 🧲
+- **Função:** Cria bios irresistíveis com foco em conversão.
+- **Ideal para:** Otimização de bio do Instagram, apresentação profissional.
+- **Características:** Entrega versões personalizadas com CTAs estratégicos.
+- **Link:** https://chatgpt.com/g/g-67b7c925aa3881919c29a16ae96fceac-a-bio-magnetica
+- **Vídeo:** https://youtu.be/YEZhEJWnjGQ
+
+### Planejador das Postagens 📅
+- **Função:** Organiza seu calendário de conteúdo com temas estratégicos.
+- **Ideal para:** Planejamento de conteúdo, calendário editorial.
+- **Características:** Foco em constância, relevância e venda.
+- **Link:** https://chatgpt.com/g/g-67a68d1b61148191ba655a7edbd851f4-o-planejador-das-postagens
+- **Vídeo:** https://youtu.be/diQW8yFlfEI
+
+### Provocadora das Perguntas
+- **Função:** Gera perguntas que criam engajamento real.
+- **Ideal para:** Caixas de perguntas em stories, engajamento com audiência.
+- **Características:** Cria perguntas que fazem o público pensar ou responder.
+- **Link:** https://chatgpt.com/g/g-67e49e40520081919fb6de7ed801c36b-o-provocador-das-perguntas
+- **Vídeo:** Indisponível
+
+### Mestre das Enquetes
+- **Função:** Cria enquetes que geram interação e feedback.
+- **Ideal para:** Enquetes em stories, pesquisas com audiência.
+- **Características:** Ajuda a entender a audiência através de enquetes interativas.
+- **Link:** https://chatgpt.com/g/g-67e49f7a5ca88191b2da27acf2a29abc-o-mestre-das-enquetes
+- **Vídeo:** Indisponível
+
