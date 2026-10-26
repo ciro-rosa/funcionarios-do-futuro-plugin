@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## 1.3.0
+
+- Transforma a antiga entrada `suporte-24-horas` na central `funcionarios`, apresentada como Funcionários — Assistente de Conteúdo.
+- Entende o objetivo do aluno, seleciona os métodos dos 30 especialistas e executa na mesma conversa, sem exigir conhecimento do catálogo.
+- Define rotas de produção, reaproveitamento de briefing e passagem de texto para design, preservando formato, CTA e proporção visual.
+- Mantém a ajuda de instalação e os três anexos históricos na central; preserva integralmente as 31 instruções originais e as 63 bases.
+- Atualiza a entrada inicial do Codex, os exemplos de uso e o guia. O novo comando do Claude Code é `/funcionarios`, com `/funcionarios-do-futuro:funcionarios` como alternativa em caso de conflito de nomes. O comando antigo do suporte deixa de existir.
+
 ## 1.2.0
 
 - Revisa individualmente os 30 especialistas restantes, mantendo o Suporte e os 31 nomes/identificadores originais.

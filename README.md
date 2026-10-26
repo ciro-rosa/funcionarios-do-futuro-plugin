@@ -1,8 +1,10 @@
 # Funcionários do Futuro
 
-Plugin de Ciro Rosa com 31 skills para conteúdo, design, copywriting, estratégia e prompts de vídeo.
+Assistente de IA de Ciro Rosa para planejar e produzir conteúdo, com 30 especialistas que ele seleciona conforme a tarefa. São 31 skills: a central **Funcionários** e os especialistas.
 
 As instruções de execução foram revisadas para Claude e Codex. Os nomes, as instruções originais e as 63 bases originais permanecem preservados. [Veja o estudo e a cobertura dos testes](funcionarios-do-futuro/review-report.md).
+
+[Veja a revisão e os testes da central Funcionários na versão 1.3.0](funcionarios-do-futuro/entrypoint-review.md).
 
 ## Claude e Cowork
 
@@ -23,7 +25,7 @@ Execute na conversa do Claude Code:
 /plugin install funcionarios-do-futuro@funcionarios-do-futuro
 ```
 
-Depois, use `/funcionarios-do-futuro:suporte-24-horas` ou peça uma tarefa normalmente.
+Depois, use `/funcionarios` e conte o que precisa produzir. Se houver conflito com outro comando, use `/funcionarios-do-futuro:funcionarios`.
 
 ## Codex
 
@@ -42,7 +44,17 @@ Se o repositório for privado, a conta GitHub usada na instalação precisa ter 
 
 ## Começar a usar
 
-- “Use o suporte 24 horas para escolher o especialista para minha tarefa.”
+Você não precisa escolher um especialista. Conte sobre seu negócio e o que precisa produzir:
+
+> Use Funcionários do Futuro. Tenho uma confeitaria e quero um carrossel de 6 slides para divulgar bolos por encomenda, com CTA para o WhatsApp.
+
+O assistente escolhe os métodos, aproveita o briefing da conversa e entrega o conteúdo. Quando faltar uma informação essencial, ele pergunta. Você também pode chamar um especialista diretamente.
+
+No Claude Code, a entrada curta é `/funcionarios` (testada no Claude Code), com `/funcionarios-do-futuro:funcionarios` como alternativa se houver conflito de nomes. No Codex, peça **“Use Funcionários do Futuro”** ou selecione a skill **funcionarios** na lista de skills. O comando de barra é específico do Claude Code; não é um comando de terminal.
+
+Na versão 1.3.0, a skill `suporte-24-horas` passou a se chamar `funcionarios`. A ajuda de instalação e as bases originais continuam incluídas na central. Quem usava o comando antigo deve atualizar e usar o novo.
+
+- “Use Funcionários do Futuro para me ajudar a produzir conteúdo para meu negócio.”
 - “Use raio-x-estrategico para montar meu briefing.”
 - “Use hacker-dos-carrosseis para planejar um carrossel.”
 - “Use vision para criar um prompt de vídeo.”

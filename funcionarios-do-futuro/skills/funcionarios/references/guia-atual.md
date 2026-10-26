@@ -14,7 +14,13 @@ Na conversa do Claude Code, execute separadamente:
 /plugin install funcionarios-do-futuro@funcionarios-do-futuro
 ```
 
-Feche e abra o Claude Code. Comece com `/funcionarios-do-futuro:suporte-24-horas`.
+Feche e abra o Claude Code. Comece com `/funcionarios`. Se houver conflito com outro comando, use `/funcionarios-do-futuro:funcionarios`. O atalho curto foi testado no Claude Code; não é um comando de terminal nem um atalho de barra do Codex.
+
+## Produzir sem escolher um especialista
+
+Peça: “Use Funcionários do Futuro. Tenho uma confeitaria e preciso de um carrossel de 6 slides para divulgar bolos por encomenda, com CTA para o WhatsApp.” A central `funcionarios` escolhe os métodos e entrega na mesma conversa. Para começar sem uma ideia, conte sobre seu negócio e o objetivo do conteúdo. Os 30 especialistas continuam disponíveis para acesso direto.
+
+A partir da versão 1.3.0, `funcionarios` substitui a entrada `suporte-24-horas`. As bases originais e a ajuda de instalação continuam preservadas. Atualize a instalação para usar o novo nome.
 
 ## Instalar no Codex
 
@@ -28,7 +34,7 @@ codex plugin marketplace add ciro-rosa/funcionarios-do-futuro-plugin
 codex plugin add funcionarios-do-futuro@funcionarios-do-futuro
 ```
 
-Na próxima conversa ou turno com o catálogo atualizado, peça: “Use o Suporte 24 horas dos Funcionários do Futuro para me ajudar.” Se a lista não aparecer, abra uma conversa nova ou reabra o aplicativo.
+Na próxima conversa ou turno com o catálogo atualizado, peça: “Use Funcionários do Futuro para me ajudar a produzir conteúdo.” Se a lista não aparecer, abra uma conversa nova ou reabra o aplicativo.
 
 ## Claude pelo painel de plugins
 
@@ -53,7 +59,7 @@ O modelo executa as instruções do especialista. Os arquivos de conhecimento s�
 ## Erros frequentes
 
 - **Filename too long no Windows:** a versão 1.1.1 encurtou os arquivos. Se a primeira adição do marketplace falhou, repita a adição para buscar a versão corrigida e depois instale. Se o marketplace já estiver registrado no Claude Code, atualize com `/plugin marketplace update funcionarios-do-futuro`; siga a opção de atualização do plugin no painel e reabra o aplicativo. Não peça para apagar pastas ou alterar o registro do Windows como primeira medida.
-- **Skill não aparece:** confirme que o plugin foi instalado e está habilitado, reabra o aplicativo ou abra uma conversa nova, e tente o nome completo `funcionarios-do-futuro:suporte-24-horas` ou o pedido em linguagem natural.
+- **Skill não aparece:** confirme que o plugin foi instalado e está habilitado, reabra o aplicativo ou abra uma conversa nova, e tente o nome completo `funcionarios-do-futuro:funcionarios` ou o pedido em linguagem natural.
 - **Comando codex não reconhecido:** é um problema de instalação ou PATH da CLI. Confirme se o aluno está usando o aplicativo ou o terminal e consulte a documentação oficial para sua versão; não presuma que o plugin foi instalado.
 - **MCP precisa autenticar:** verifique o nome do servidor; este plugin não inclui MCP. Só oriente conexão de um serviço externo se a tarefa precisar dele.
 - **Não gerou imagem/vídeo/áudio:** verifique se há ferramenta de geração disponível. O prompt produzido pela skill pode ser usado no serviço escolhido pelo aluno, sujeito ao acesso e aos limites desse serviço.
@@ -63,7 +69,7 @@ O modelo executa as instruções do especialista. Os arquivos de conhecimento s�
 
 - Guia de instalação e catálogo: https://github.com/ciro-rosa/funcionarios-do-futuro-plugin
 - Catálogo completo no GitHub: https://github.com/ciro-rosa/funcionarios-do-futuro-plugin/blob/main/funcionarios-do-futuro/references/catalogo.md
-- Índice das bases do suporte: https://github.com/ciro-rosa/funcionarios-do-futuro-plugin/blob/main/funcionarios-do-futuro/skills/suporte-24-horas/references/bases.md
+- Índice das bases do suporte: https://github.com/ciro-rosa/funcionarios-do-futuro-plugin/blob/main/funcionarios-do-futuro/skills/funcionarios/references/bases.md
 - Migração dos GPTs: https://help.openai.com/pt-br/articles/20001519-custom-gpt-retirement-and-migration-faq
 - Claude Code: https://code.claude.com/docs/en/discover-plugins
 - Codex: https://developers.openai.com/plugins/build/plugins

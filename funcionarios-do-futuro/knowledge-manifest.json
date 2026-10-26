@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "text_hash_format": "SHA256 of UTF-8 text with LF newlines; original files use raw bytes",
   "skills": [
     {
@@ -664,10 +664,10 @@
       "attachments": []
     },
     {
-      "skill": "suporte-24-horas",
+      "skill": "funcionarios",
       "name": "Suporte 24 horas Funcionários do Futuro",
       "original_instruction_sha256": "413f1ca74896adcee6a17561197451c6d5720b711f79d6d6d73c8d6e000bd6a6",
-      "active_instruction_sha256": "102c2fc6c04b65de983aec14fe95304c14a445ed4c6037c23b6bbcd60f52174e",
+      "active_instruction_sha256": "51e67b67a1241cac993933b3ec731a2b94fa37c0a3cc8501f1303cf9a8e9c253",
       "attachments": [
         {
           "original_name": "catalogo_agentes.txt",
@@ -739,7 +739,7 @@
   "runtime_files": [
     {
       "path": "references/catalogo.md",
-      "text_sha256": "d7af9b7af8347a345e34bdf84c9ce50db10e48f046b3f0583115acce2f5ce52e"
+      "text_sha256": "b9e076d002d0e74e9e1919c34329787c2317ef7bc95548a4d4a2e8e9b6c69f55"
     },
     {
       "path": "references/execucao.md",
@@ -751,7 +751,7 @@
     },
     {
       "path": "scripts/validar_instalacao.py",
-      "text_sha256": "adb7702c6637b8e7fffe9467d73b42d68b6f0b39aafb715ecce59850244383d0"
+      "text_sha256": "c5f4304af3459f93ec31fa56b3fa0e86c23633a3ac6b9fb9bcc90c4f13ff17fc"
     },
     {
       "path": "skills/analista-estrategico-de-publico-e-mercado/SKILL.md",
@@ -818,6 +818,14 @@
       "text_sha256": "2647da677245aa9b9b9d2a9e91df05d79ef656d63fc2d4b938bdbed996ceb6e7"
     },
     {
+      "path": "skills/funcionarios/references/guia-atual.md",
+      "text_sha256": "ae40ba5ee308cc0ea91c2bd50a4a0cf5cbdd90426320fcefa9b3c14043bd16ba"
+    },
+    {
+      "path": "skills/funcionarios/SKILL.md",
+      "text_sha256": "726093c17804d561fed204ac18c6ff56a589eb40d616fa2c88f7d1aac0486635"
+    },
+    {
       "path": "skills/genio-dos-reels/SKILL.md",
       "text_sha256": "78f9cde219f93923b8e38dbcba48c37c875132a762e360f2373141f3f48185e2"
     },
@@ -868,14 +876,6 @@
     {
       "path": "skills/roteirista-viral-para-flow/SKILL.md",
       "text_sha256": "2d4ae7a106374ae159b9099c30eb58540fdff45f47fa29b2482075a02d60d3b9"
-    },
-    {
-      "path": "skills/suporte-24-horas/references/guia-atual.md",
-      "text_sha256": "0c01b61196b945adf25d89ac35a558180540a79133ecb8ef422b57b52f8f7159"
-    },
-    {
-      "path": "skills/suporte-24-horas/SKILL.md",
-      "text_sha256": "f7af02702e995fd3a460f6c72b58a4e9f691b2be4d6aee0d4379d12e93fbdfb4"
     },
     {
       "path": "skills/vision/SKILL.md",

@@ -45,7 +45,7 @@ Para exportar bases que a prévia original não disponibilizava, foram criadas c
 | A Rainha dos Títulos | rainha-dos-titulos | 0 | 0 |
 | Raio-X Estratégico | raio-x-estrategico | 0 | 0 |
 | Roteirista Viral para FLOW | roteirista-viral-para-flow | 0 | 0 |
-| Suporte 24 horas Funcionários do Futuro | suporte-24-horas | 3 | 0 |
+| Suporte 24 horas Funcionários do Futuro | funcionarios | 3 | 0 |
 | V.I.S.I.O.N. | vision | 4 | 0 |
 
 ## Arquivos originais ausentes
@@ -83,8 +83,8 @@ Nenhum. Todas as bases originais dos 31 GPTs do escopo estão incluídas.
 - **rainha-dos-titulos**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
 - **raio-x-estrategico**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
 - **roteirista-viral-para-flow**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
-- **suporte-24-horas**: Instruções de execução revisadas para orientar alunos no Claude/Codex, usar skills locais, diagnosticar instalação e distinguir ferramentas externas; instruções originais preservadas.
-- **suporte-24-horas**: Catálogo e fluxos adaptados aos 31 especialistas do plugin; os arquivos originais de suporte também estão incluídos.
+- **funcionarios**: Instruções de execução revisadas para orientar alunos no Claude/Codex, usar skills locais, diagnosticar instalação e distinguir ferramentas externas; instruções originais preservadas.
+- **funcionarios**: Catálogo e fluxos adaptados aos 31 especialistas do plugin; os arquivos originais de suporte também estão incluídos.
 - **vision**: Método revisado individualmente para skills portáveis: briefing contextual, entrega verificável e distinção entre instruções ativas e originais históricos.
 
 ## Validação e limites

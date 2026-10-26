@@ -2,7 +2,7 @@
 
 Plugin de Ciro Rosa com 31 skills para Instagram, copywriting, design, pesquisa, planejamento e prompts de vídeo.
 
-Peça “use o suporte 24 horas para escolher meu especialista” ou indique diretamente uma skill. O [catálogo](references/catalogo.md) lista todas elas.
+Peça “Use Funcionários do Futuro para produzir conteúdo para meu negócio” ou indique diretamente uma skill. A entrada `funcionarios` entende o pedido e combina os 30 especialistas. O [catálogo](references/catalogo.md) lista todas elas.
 
 ## Instalar no Claude
 
@@ -21,7 +21,7 @@ claude plugin marketplace add "C:\caminho\funcionarios-do-futuro-marketplace"
 claude plugin install funcionarios-do-futuro@funcionarios-do-futuro-local
 ```
 
-Exemplos de comandos no Claude Code: `/funcionarios-do-futuro:suporte-24-horas`, `/funcionarios-do-futuro:raio-x-estrategico` e `/funcionarios-do-futuro:vision`.
+Exemplos de comandos no Claude Code: `/funcionarios-do-futuro:funcionarios`, `/funcionarios-do-futuro:raio-x-estrategico` e `/funcionarios-do-futuro:vision`.
 
 ## Instalar no Codex
 

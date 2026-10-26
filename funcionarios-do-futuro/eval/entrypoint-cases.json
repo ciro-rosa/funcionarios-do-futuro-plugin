@@ -1,0 +1,22 @@
+[
+  {
+    "id": "oi",
+    "prompt": "Oi!"
+  },
+  {
+    "id": "carrossel",
+    "prompt": "Tenho uma confeitaria de bolos artesanais por encomenda. Público: famílias da cidade. Crie o TEXTO de um carrossel de 6 slides para divulgar encomendas, tom acolhedor, CTA para pedir orçamento no WhatsApp. Não invente preços nem depoimentos. Não preciso do design."
+  },
+  {
+    "id": "continuar",
+    "prompt": "Contexto já informado: sou professora de inglês para adultos iniciantes, aulas individuais online, tom simples e acolhedor, objetivo agendar aula experimental pelo direct. Não sei o que postar. Me entregue um plano de 3 posts desta semana, com tema, formato e CTA. Não escreva os posts completos."
+  },
+  {
+    "id": "combinar",
+    "prompt": "Sou professora de inglês para adultos iniciantes. Crie um carrossel de 3 slides sobre perder o medo de falar e a direção visual de cada slide. Tom acolhedor. CTA final: Me chame no direct para conhecer as aulas. Visual azul e branco, proporção 4:5. Entregue texto e prompts de design juntos, sem gerar imagens."
+  },
+  {
+    "id": "instalacao",
+    "prompt": "Meu Claude Code deu Filename too long ao instalar o plugin. O que faço?"
+  }
+]

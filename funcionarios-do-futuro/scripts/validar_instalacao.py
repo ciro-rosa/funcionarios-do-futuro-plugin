@@ -47,7 +47,7 @@ def main():
             assert consultation.read_text(encoding='utf-8').strip()
             count += 1
     assert count == 63
-    docs += list((ROOT / 'skills/suporte-24-horas/references').glob('*atual*.md'))
+    docs += list((ROOT / 'skills/funcionarios/references').glob('*atual*.md'))
     for path in docs:
         for target in re.findall(r'\]\(([^)]+)\)', path.read_text(encoding='utf-8')):
             if target.startswith(('http://', 'https://', '#')):

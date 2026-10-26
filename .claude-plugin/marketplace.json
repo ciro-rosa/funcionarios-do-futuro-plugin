@@ -10,8 +10,8 @@
     {
       "name": "funcionarios-do-futuro",
       "source": "./funcionarios-do-futuro",
-      "description": "Equipe de 31 especialistas de Ciro Rosa para conteúdo, design, copywriting, estratégia e prompts de vídeo.",
-      "version": "1.2.0"
+      "description": "Assistente de produção de conteúdo de Ciro Rosa que seleciona e combina 30 especialistas para planejar, escrever e preparar materiais visuais.",
+      "version": "1.3.0"
     }
   ]
 }
