@@ -10,7 +10,28 @@ As instruções de execução foram revisadas para Claude e Codex. Os nomes, as 
 
 **[Baixar o guia de instalação e primeiros passos](https://raw.githubusercontent.com/ciro-rosa/funcionarios-do-futuro-plugin/main/docs/funcionarios-do-futuro-guia-de-instalacao.pdf)**
 
-Material de apoio com 6 páginas, comandos copiáveis, exemplos de pedidos e uma captura mostrando como selecionar a central no Codex. Você pode baixar e compartilhar com os alunos.
+Material de apoio com 7 páginas para ChatGPT online, Claude e Codex: comandos copiáveis, exemplos de pedidos e uma captura mostrando como selecionar a central no Codex. Você pode baixar e compartilhar com os alunos.
+
+## ChatGPT online: instalar pelo ZIP
+
+**[Baixar o ZIP de instalação do plugin](https://raw.githubusercontent.com/ciro-rosa/funcionarios-do-futuro-plugin/main/downloads/funcionarios-do-futuro.zip)**
+
+Use este arquivo `funcionarios-do-futuro.zip`, sem descompactar. **Não use Code → Download ZIP**: esse botão baixa o repositório inteiro, chamado `funcionarios-do-futuro-plugin-main.zip`, e pode causar o erro **Expected a single plugin archive**.
+
+Se sua conta do ChatGPT online oferecer a instalação por arquivo:
+
+1. Entre no ChatGPT pelo navegador e abra **Plugins**.
+2. Abra **Novo plugin** (a opção pode estar no botão **+**).
+3. Clique em **Escolher arquivo** e selecione `funcionarios-do-futuro.zip` baixado pelo link acima.
+4. Aguarde a validação e clique em **Adicionar plugin**. Revise os dados e permissões exibidos pela plataforma.
+5. Confirme que **Funcionários do Futuro** aparece entre os plugins instalados e habilitados. Abra uma conversa nova e selecione-o, se o aplicativo solicitar.
+6. Envie: **“Use Funcionários do Futuro para me ajudar a produzir conteúdo para meu negócio.”**
+
+O ZIP deve ser enviado na janela **Novo plugin**, não como anexo de uma conversa. Este pacote não exige cadastrar um servidor MCP personalizado. Não use os comandos de instalação do Claude Code ou do terminal do Codex nessa tela.
+
+**Se aparecer erro:** confira se o arquivo é o ZIP direto deste link e guarde a mensagem completa. Se a opção de upload não estiver disponível, confira os recursos e permissões da conta/workspace; este guia não garante disponibilidade em todas as contas. A estrutura e os arquivos foram validados localmente, mas a aceitação e o funcionamento no ChatGPT online ainda precisam ser confirmados na conta.
+
+Referência técnica: [estrutura e caminhos oficiais do pacote](https://developers.openai.com/plugins/build/plugins#plugin-structure).
 
 ## Claude e Cowork
 
