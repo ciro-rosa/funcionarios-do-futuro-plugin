@@ -6,6 +6,12 @@ As instruções de execução foram revisadas para Claude e Codex. Os nomes, as 
 
 [Veja a revisão e os testes da central Funcionários na versão 1.3.0](funcionarios-do-futuro/entrypoint-review.md).
 
+## Guia de instalação em PDF
+
+**[Baixar o guia de instalação e primeiros passos](https://raw.githubusercontent.com/ciro-rosa/funcionarios-do-futuro-plugin/main/docs/funcionarios-do-futuro-guia-de-instalacao.pdf)**
+
+Material de apoio com 6 páginas, comandos copiáveis, exemplos de pedidos e uma captura mostrando como selecionar a central no Codex. Você pode baixar e compartilhar com os alunos.
+
 ## Claude e Cowork
 
 Em **Personalizar / Customize → Plugins → Adicionar → Adicionar marketplace**, escolha a opção de repositório e informe:
